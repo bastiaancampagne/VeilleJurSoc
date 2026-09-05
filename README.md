@@ -38,3 +38,14 @@ Puis ouvrir `http://localhost:8080`.
 ## Installation
 Une fois déployée en HTTPS, ouvrir la PWA dans Chrome/Edge puis choisir
 « Installer l'application » / « Ajouter à l'écran d'accueil ».
+
+
+## Nouveautés v4.2 — Mes sujets favoris
+
+- La page « Mes sujets favoris » affiche directement les articles correspondant à au moins un favori.
+- Les résultats sont triés du plus récent au plus ancien.
+- Ajout/suppression des favoris avec détection des doublons.
+- Export des favoris dans un fichier JSON.
+- Import de ce fichier sur un autre appareil.
+- Les favoris importés sont fusionnés sans doublons avec ceux déjà présents.
+- Les favoris restent personnels à chaque appareil et ne modifient pas GitHub.

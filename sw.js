@@ -1,4 +1,4 @@
-const CACHE="veillejursoc-v4-pwa-1";
+const CACHE="veillejursoc-v4-pwa-2";
 const ASSETS=["./","./index.html","./styles.css","./app.js","./manifest.webmanifest",
 "./assets/icon-192.png","./assets/icon-512.png","./assets/emu_home_hero.png","./assets/emu_news_hero.png",
 "./assets/emu_search_hero.png","./assets/emu_favorites_hero.png","./assets/perfection.jpg"];

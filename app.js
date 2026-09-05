@@ -83,14 +83,101 @@ function showSources(){
  <p>Touchez une source pour ouvrir son site officiel ou spécialisé.</p>
  ${SOURCES.map(s=>`<div class="card source"><div><b>${esc(s[0])}</b><br><span class="badge">${esc(s[3])}</span></div><a href="${s[1]}" target="_blank" rel="noopener">Ouvrir ↗</a></div>`).join("")}`;
 }
+function matchingFavoriteArticles(favList=favorites()){
+ if(!favList.length)return [];
+ const terms=favList.map(norm).filter(Boolean);
+ return articles().filter(a=>{
+   const hay=norm(`${a.title||""} ${a.summary||""} ${a.source||""}`);
+   return terms.some(t=>hay.includes(t));
+ }).sort(sortNewest);
+}
+function downloadFavorites(){
+ const fav=favorites();
+ const payload={
+   app:"VeilleJurSoc",
+   type:"favorites",
+   version:1,
+   exportedAt:new Date().toISOString(),
+   favorites:fav
+ };
+ const blob=new Blob([JSON.stringify(payload,null,2)],{type:"application/json;charset=utf-8"});
+ const url=URL.createObjectURL(blob);
+ const a=document.createElement("a");
+ const day=new Date().toISOString().slice(0,10);
+ a.href=url;
+ a.download=`VeilleJurSoc-favoris-${day}.json`;
+ document.body.appendChild(a);
+ a.click();
+ a.remove();
+ setTimeout(()=>URL.revokeObjectURL(url),500);
+ toast(`${fav.length} favori(s) exporté(s)`);
+}
+function importFavoritesFile(file){
+ if(!file)return;
+ const reader=new FileReader();
+ reader.onload=()=>{
+   try{
+     const data=JSON.parse(String(reader.result||""));
+     const incoming=Array.isArray(data)?data:data?.favorites;
+     if(!Array.isArray(incoming))throw new Error("format");
+     const cleaned=incoming
+       .map(x=>String(x??"").trim())
+       .filter(Boolean)
+       .slice(0,200);
+     if(!cleaned.length)throw new Error("empty");
+     const merged=[...favorites()];
+     cleaned.forEach(x=>{
+       if(!merged.some(f=>norm(f)===norm(x)))merged.push(x);
+     });
+     setJSON("vjs_favorites",merged);
+     toast(`${cleaned.length} favori(s) importé(s)`);
+     showFavorites();
+   }catch(e){
+     toast("Fichier de favoris non reconnu");
+   }
+ };
+ reader.readAsText(file,"utf-8");
+}
 function showFavorites(){
  let fav=favorites();
+ let matches=matchingFavoriteArticles(fav);
  app.innerHTML=`<h1 class="section-title">★ Mes sujets favoris</h1>${hero("emu_favorites_hero.png",true)}
- <p>Les articles contenant ces sujets sont signalés par ★ dans Aujourd’hui, Archives et Recherche.</p>
- <div id="favList">${fav.map((f,i)=>`<div class="card favrow"><b>${esc(f)}</b><button class="danger" data-i="${i}">Supprimer</button></div>`).join("")}</div>
- <div class="searchrow"><input id="newFav" placeholder="Ex. PMSS"><button class="action green" id="addFav">＋ Ajouter</button></div>`;
- document.querySelectorAll("[data-i]").forEach(b=>b.onclick=()=>{fav.splice(+b.dataset.i,1);setJSON("vjs_favorites",fav);showFavorites()});
- $("#addFav").onclick=()=>{let x=$("#newFav").value.trim();if(x&&!fav.some(f=>norm(f)===norm(x))){fav.push(x);setJSON("vjs_favorites",fav);showFavorites()}};
+ <p>Ajoutez vos thèmes personnels, par exemple <b>PMSS</b>, <b>DSN</b> ou <b>IJSS</b>. Les trouvailles correspondantes apparaissent directement ci-dessous, les plus récentes en premier.</p>
+
+ <div class="card">
+   <h3>Mes mots-clés favoris</h3>
+   <div id="favList">${fav.length ? fav.map((f,i)=>`<div class="favrow favitem"><b>${esc(f)}</b><button class="danger" data-i="${i}">Supprimer</button></div>`).join("") : '<div class="empty compact">Aucun sujet favori.</div>'}</div>
+   <div class="searchrow fav-add"><input id="newFav" placeholder="Ex. PMSS"><button class="action green" id="addFav">＋ Ajouter</button></div>
+ </div>
+
+ <div class="toolbar">
+   <button class="action blue" id="exportFav">⬇ Exporter mes favoris</button>
+   <button class="action purple" id="importFav">⬆ Importer mes favoris</button>
+ </div>
+ <input id="favFile" type="file" accept="application/json,.json" hidden>
+ <p class="muted">Les favoris restent propres à cet appareil. L’export crée un petit fichier JSON que l’on peut conserver puis réimporter sur un autre iPhone, Android ou ordinateur.</p>
+
+ <h2 class="section-title fav-results-title">📰 Trouvailles correspondant à mes favoris</h2>
+ <p class="muted">${matches.length} trouvaille(s) correspondant à ${fav.length} sujet(s) favori(s).</p>
+ <div id="favoriteResults">${renderArticles(matches)}</div>`;
+
+ document.querySelectorAll("[data-i]").forEach(b=>b.onclick=()=>{
+   fav.splice(+b.dataset.i,1);
+   setJSON("vjs_favorites",fav);
+   showFavorites();
+ });
+ $("#addFav").onclick=()=>{
+   let x=$("#newFav").value.trim();
+   if(!x)return toast("Saisissez un sujet favori");
+   if(fav.some(f=>norm(f)===norm(x)))return toast("Ce sujet est déjà dans vos favoris");
+   fav.push(x);
+   setJSON("vjs_favorites",fav);
+   showFavorites();
+ };
+ $("#newFav").onkeydown=e=>{if(e.key==="Enter")$("#addFav").click()};
+ $("#exportFav").onclick=downloadFavorites;
+ $("#importFav").onclick=()=>$("#favFile").click();
+ $("#favFile").onchange=e=>importFavoritesFile(e.target.files?.[0]);
 }
 function showAddArticle(){
  app.innerHTML=`<h1 class="section-title">＋ Ajouter une trouvaille</h1>

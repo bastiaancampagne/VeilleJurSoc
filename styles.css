@@ -27,3 +27,10 @@ input,select{width:100%;padding:.9rem;border:1px solid #aeb8c4;border-radius:12p
 .badge{display:inline-block;padding:.2rem .45rem;border-radius:999px;background:#edf2f7;font-size:.72rem}
 .note{background:#fff4cc;border:1px solid #e3c86c;border-radius:14px;padding:.8rem;line-height:1.4}
 @media(max-width:520px){.topbar strong{display:none}.topbar{grid-template-columns:1fr 1fr}.hero{height:285px}.searchrow{grid-template-columns:1fr}.title{font-size:1.75rem}}
+
+.favitem{padding:.6rem 0;border-bottom:1px solid var(--line)}
+.favitem:last-child{border-bottom:0}
+.fav-add{margin-top:.8rem}
+.empty.compact{padding:.8rem 0}
+.fav-results-title{margin-top:1.4rem;font-size:1.45rem}
+@media(max-width:520px){.toolbar{display:grid;grid-template-columns:1fr}}
