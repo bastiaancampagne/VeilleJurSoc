@@ -327,20 +327,19 @@ def extract_published_date(page):
             )
 
             if parsed:
-    try:
-        parsed_dt = datetime.datetime.fromisoformat(parsed)
+                try:
+                    parsed_dt = datetime.datetime.fromisoformat(parsed)
 
-        now = datetime.datetime.now(
-            datetime.timezone.utc
-        )
+                    now = datetime.datetime.now(
+                        datetime.timezone.utc
+                    )
 
-        # Refuser une prétendue date de publication
-        # située dans le futur.
-        if parsed_dt <= now:
-            return parsed
+                    # Refuser les dates situées dans le futur
+                    if parsed_dt <= now:
+                        return parsed
 
-    except Exception:
-        pass
+                except Exception:
+                    pass
 
     return None
 
