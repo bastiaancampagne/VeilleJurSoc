@@ -52,3 +52,7 @@ Une fois déployée en HTTPS, ouvrir la PWA dans Chrome/Edge puis choisir
 
 ## v4.8
 La page Remerciements reprend le visuel « Frôler la perfection », avec le texte original et la flamme de la Légion étrangère sous le message. La signature Bastiaan (31) TM reste dans le pied de page de l'application.
+
+
+## v4.9
+La flamme de la Légion étrangère de la page Remerciements a été remplacée par l’image exacte fournie par l’utilisateur.

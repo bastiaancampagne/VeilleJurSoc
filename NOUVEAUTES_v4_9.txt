@@ -1,0 +1,6 @@
+VeilleJurSoc PWA v4.9 — Flamme Légion étrangère
+
+- La page Remerciements utilise désormais exactement l’image de flamme fournie par l’utilisateur.
+- Texte original des remerciements conservé.
+- Bastiaan (31) TM reste dans le pied de page de l’application.
+- Cache PWA incrémenté en v9.

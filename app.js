@@ -155,7 +155,7 @@ function showThanks(){
    <div class="thanks-copy">
      <p>Un grand merci à<br><b>Aurore, Chloé, Gaëlle, Tess et Thomas</b><br>pour tous les bons moments partagés pendant notre formation.</p>
      <p>Un grand merci également à<br><b>Damien et Sylvie</b>,<br>pour leur accompagnement, leur patience et tout ce qu’ils nous ont transmis.</p>
-     <img class="legion-flame" src="assets/legion_flame.svg" alt="Flamme de la Légion étrangère">
+     <img class="legion-flame" src="assets/legion_flame.png" alt="Flamme de la Légion étrangère">
    </div>
  </section>`;
 }
