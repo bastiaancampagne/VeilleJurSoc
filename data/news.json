@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:38:45.866433+00:00",
+  "generated_at": "2026-09-06T11:49:30.187990+00:00",
   "items": [
     {
       "title": "La procédure de l'injonction de payer évolue",
@@ -9,9 +9,7 @@
       "summary": "La réforme de l’injonction de payer s’applique aux ordonnances d’injonction de payer rendues à partir du 1er septembre 2026",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T10:09:21.074992+00:00",
-      "topics": [
-        "Rémunération"
-      ]
+      "topics": []
     },
     {
       "title": "4 septembre 10h30 Guide 2026 relatif aux décisions administratives en matière de rupture ou de transfert du contrat de travail des salariés protégés Social Autres sources",
@@ -107,8 +105,7 @@
       "publishedAt": "2026-09-03T12:11:28+00:00",
       "discoveredAt": "2026-09-06T10:09:46.316642+00:00",
       "topics": [
-        "Cotisations",
-        "Rémunération"
+        "Cotisations"
       ]
     },
     {
@@ -119,9 +116,7 @@
       "summary": "La réforme de l'injonction de payer résultant du décret 2026-96 du 16 février 2026 est désormais effective. Elle s'applique aux",
       "publishedAt": "2026-09-03T09:00:00+00:00",
       "discoveredAt": "2026-09-06T10:09:47.896585+00:00",
-      "topics": [
-        "Rémunération"
-      ]
+      "topics": []
     },
     {
       "title": "Ai-je le droit de faire exceptionnellement travailler un salarié à temps partiel sur 35 heures ?",
@@ -304,134 +299,6 @@
       "topics": [
         "DSN"
       ]
-    },
-    {
-      "title": "DSN – DOETH Campagne déclarative 2026 Publié le 24 avril 2026",
-      "url": "https://www.net-entreprises.fr/dsn-doeth-campagne-declarative-2026/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "La déclaration obligatoire d’emploi des travailleurs handicapés (DOETH) doit être établie au titre de l’année 2025 au sein de la DSN d’avril 2026…",
-      "publishedAt": "2026-04-24T13:27:34+00:00",
-      "discoveredAt": "2026-09-06T11:37:58.030880+00:00",
-      "topics": [
-        "DSN"
-      ]
-    },
-    {
-      "title": "L’API DSN est l’interface qui permet au logiciel de paie du déclarant (ou au concentrateur) de s’authentifier directement sur le point de dépôt des déclarations sociales nominatives.",
-      "url": "https://www.net-entreprises.fr/declaration/api-dsn/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-11-13T16:02:43+00:00",
-      "discoveredAt": "2026-09-06T10:09:11.289315+00:00",
-      "topics": [
-        "DSN",
-        "Rémunération"
-      ]
-    },
-    {
-      "title": "Les pilotes DSN en cours",
-      "url": "https://www.net-entreprises.fr/declaration/pilotes-dsn/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-18T13:05:57+00:00",
-      "discoveredAt": "2026-09-06T10:09:12.472516+00:00",
-      "topics": [
-        "DSN"
-      ]
-    },
-    {
-      "title": "Accédez aux tables de référence DSN",
-      "url": "https://www.net-entreprises.fr/declaration/tables-de-nomenclatures/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-16T14:09:55+00:00",
-      "discoveredAt": "2026-09-06T10:09:07.439647+00:00",
-      "topics": [
-        "DSN"
-      ]
-    },
-    {
-      "title": "Les Comptes Rendus Métiers DSN",
-      "url": "https://www.net-entreprises.fr/declaration/comptes-rendus-metiers-dsn/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-16T13:33:34+00:00",
-      "discoveredAt": "2026-09-06T10:09:03.495118+00:00",
-      "topics": [
-        "DSN"
-      ]
-    },
-    {
-      "title": "Testez vos fichiers dsn-val !",
-      "url": "https://www.net-entreprises.fr/declaration/outils-de-controle-dsn-val/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-11T12:46:59+00:00",
-      "discoveredAt": "2026-09-06T10:09:04.681253+00:00",
-      "topics": [
-        "DSN"
-      ]
-    },
-    {
-      "title": "Sont dénommées « entreprises étrangères » tous les employeurs dont l’entreprise ne comporte pas d’établissement en France et qui emploient du personnel salarié relevant du régime social français.",
-      "url": "https://www.net-entreprises.fr/declaration/entreprises-etrangeres/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-08T14:47:48+00:00",
-      "discoveredAt": "2026-09-06T11:37:50.581990+00:00",
-      "topics": []
-    },
-    {
-      "title": "Les déclarations MSA liées à la santé sont : L’Attestation de Salaire et de Reprise de Travail hors accident du travail – ASART MSA et La Déclaration d’Accident du Travail – DAT MSA",
-      "url": "https://www.net-entreprises.fr/declaration/declarations-msa-sante/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-08T13:29:32+00:00",
-      "discoveredAt": "2026-09-06T11:37:49.194723+00:00",
-      "topics": [
-        "Rémunération"
-      ]
-    },
-    {
-      "title": "La déclaration de chiffre d’affaires et le paiement de vos cotisations et contributions sociales auto-entrepreneur doivent exclusivement être faits sur le site www.autoentrepreneur.urssaf.fr.",
-      "url": "https://www.net-entreprises.fr/declaration/micro-entrepreneur/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-08T12:21:29+00:00",
-      "discoveredAt": "2026-09-06T10:09:08.423849+00:00",
-      "topics": [
-        "Cotisations",
-        "Rémunération"
-      ]
-    },
-    {
-      "title": "La CRPCEN (Caisse de Retraite et de Prévoyance des Clercs et Employés de Notaires) est chargée du recouvrement sur émoluments et honoraires ainsi que les affiliations des salariés.",
-      "url": "https://www.net-entreprises.fr/declaration/crpcen/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-07T10:12:04+00:00",
-      "discoveredAt": "2026-09-06T10:09:17.981501+00:00",
-      "topics": []
-    },
-    {
-      "title": "La Déclaration Préalable à l’Embauche (DPAE) permet de regrouper les 5 formalités liées à l’embauche d’un salarié (y compris la période d’essai).",
-      "url": "https://www.net-entreprises.fr/declaration/dpae/",
-      "source": "Net-entreprises",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": "2020-09-07T08:50:53+00:00",
-      "discoveredAt": "2026-09-06T10:09:17.004449+00:00",
-      "topics": []
     }
   ],
   "errors": [
