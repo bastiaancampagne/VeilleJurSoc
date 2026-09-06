@@ -24,7 +24,12 @@ const articles=()=>getJSON("vjs_articles",[]);
 const toast=m=>{const t=$("#toast");t.textContent=m;t.classList.add("show");setTimeout(()=>t.classList.remove("show"),2600)};
 const todayStart=()=>{const d=new Date();d.setHours(0,0,0,0);return +d};
 const stamp=t=>t?new Intl.DateTimeFormat("fr-FR",{dateStyle:"short",timeStyle:"short"}).format(new Date(t)):"Date de publication non indiquée";
-const setScene=name=>document.body.dataset.scene=name;
+const setScene=name=>{
+ document.body.dataset.scene=name;
+ document.querySelectorAll(".navbtn").forEach(b=>b.classList.remove("active"));
+ const map={home:"navHome",today:"navToday",archives:"navArchives",favorites:"navFavorites",sources:"navSources"};
+ if(map[name])document.getElementById(map[name])?.classList.add("active");
+};
 const articleText=a=>`${a.title||""} ${a.summary||""} ${a.source||""} ${(a.topics||[]).join(" ")}`;
 const CLIENT_EXCLUDED=["injonction de payer"];
 function clientRelevant(a){const n=norm(articleText(a));return !CLIENT_EXCLUDED.some(x=>n.includes(norm(x)))}
@@ -148,5 +153,10 @@ function showThanks(){
  app.innerHTML=`<section class="thanks-panel glass"><h1>❤️ Remerciements</h1><p>Un grand merci à <b>Aurore, Chloé, Gaëlle, Tess et Thomas</b> pour tous les bons moments partagés pendant notre formation.</p><p>Un grand merci également à <b>Damien et Sylvie</b>, pour leur accompagnement, leur patience et tout ce qu’ils nous ont transmis.</p><p class="thanks-signature">Bastiaan (31) TM</p><img class="legion-flame" src="assets/legion_flame.svg" alt="Flamme décorative de la Légion étrangère"></section>`;
 }
 $("#homeBtn").onclick=showHome;$("#thanksBtn").onclick=showThanks;
-if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(()=>{}));
+$("#navHome").onclick=showHome;
+$("#navToday").onclick=async()=>{await syncCollectedNews(false);showArticles(false)};
+$("#navArchives").onclick=async()=>{await syncCollectedNews(false);showArticles(true)};
+$("#navFavorites").onclick=async()=>{await syncCollectedNews(false);showFavorites()};
+$("#navSources").onclick=showSources;
+if("serviceWorker" in navigator)window.addEventListener("load",async()=>{try{const reg=await navigator.serviceWorker.register("./sw.js?v=47");await reg.update()}catch(e){console.warn("Service worker",e)}});
 showHome();

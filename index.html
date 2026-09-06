@@ -7,7 +7,7 @@
   <meta name="description" content="Veille juridique et sociale pour les professionnels de la paie">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/icon-192.png">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=47">
   <title>VeilleJurSoc</title>
 </head>
 <body>
@@ -19,6 +19,13 @@
 <main id="app"></main>
 <footer class="app-signature">Bastiaan (31) TM</footer>
 <div id="toast" class="toast" aria-live="polite"></div>
-<script src="app.js"></script>
+<nav class="bottomnav" aria-label="Navigation principale">
+  <button id="navHome" class="navbtn"><span>🏠</span><span>Accueil</span></button>
+  <button id="navToday" class="navbtn"><span>📰</span><span>Aujourd’hui</span></button>
+  <button id="navArchives" class="navbtn"><span>🗄️</span><span>Archives</span></button>
+  <button id="navFavorites" class="navbtn"><span>★</span><span>Favoris</span></button>
+  <button id="navSources" class="navbtn"><span>🔗</span><span>Sources</span></button>
+</nav>
+<script src="app.js?v=47"></script>
 </body>
 </html>

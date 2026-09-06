@@ -1,0 +1,12 @@
+VeilleJurSoc PWA v4.7 — maquette réellement intégrée
+
+- Scènes avec émeus en arrière-plan plein écran.
+- Panneaux, cartes et boutons semi-transparents au premier plan.
+- Accueil orienté gestionnaire de paie (plus de scène avocat/tribunal).
+- Navigation inférieure type application mobile.
+- Aujourd'hui : 3 dernières trouvailles datées si aucun article du jour.
+- Archives : dates inconnues à la fin.
+- Favoris actualisés après synchronisation ; termes courts mieux filtrés.
+- Remerciements : texte original conservé et flamme réduite.
+- Bastiaan (31) TM discret.
+- Cache PWA v7 + URLs CSS/JS versionnées pour éviter l'ancien visuel en cache.
