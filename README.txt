@@ -1,9 +1,13 @@
-VeilleJurSoc - collecteur v4.4
+VeilleJurSoc collecteur v4.4.1
 
-À remplacer dans GitHub :
-- scripts/scrape.py : OUI, c'est la mise à jour principale.
-- data/news.json : OPTIONNEL. Ne le remplacez pas si vous souhaitez conserver les trouvailles déjà collectées.
+Remplacer uniquement :
+scripts/scrape.py
 
-Le nouveau scrape.py nettoie automatiquement les anciennes entrées lors de sa prochaine exécution.
-Il exclut davantage les formations, podcasts, pages commerciales et pages de navigation,
-privilégie les vraies pages d'actualité, conserve les dates publiées valides et ajoute un champ "topics".
+Ne remplacez PAS data/news.json.
+
+Contrôle après copie dans GitHub :
+ouvrez scripts/scrape.py et recherchez TOPIC_RULES.
+Le terme doit être présent.
+
+Puis Commit changes et lancez :
+Actions > Actualiser VeilleJurSoc > Run workflow.
