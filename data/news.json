@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:49:30.187990+00:00",
+  "generated_at": "2026-09-06T12:33:28.049994+00:00",
   "items": [
     {
       "title": "La procédure de l'injonction de payer évolue",
@@ -296,6 +296,18 @@
       "summary": "En 2026, la DSN de substitution permet de corriger les erreurs non traitées de 2025 afin de sécuriser les droits à retraite, avec obligation d’informer les salariés concernés.",
       "publishedAt": "2026-06-23T08:30:48+00:00",
       "discoveredAt": "2026-09-06T10:09:37.879950+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "DSN – DOETH Campagne déclarative 2026 Publié le 24 avril 2026",
+      "url": "https://www.net-entreprises.fr/dsn-doeth-campagne-declarative-2026/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "La déclaration obligatoire d’emploi des travailleurs handicapés (DOETH) doit être établie au titre de l’année 2025 au sein de la DSN d’avril 2026…",
+      "publishedAt": "2026-04-24T13:27:34+00:00",
+      "discoveredAt": "2026-09-06T12:32:51.467084+00:00",
       "topics": [
         "DSN"
       ]
