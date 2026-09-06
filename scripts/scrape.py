@@ -138,7 +138,32 @@ KEYWORDS = [
     "rémunération",
     "remuneration",
 ]
-
+EXCLUDED_TERMS = [
+    "mot de passe oublié",
+    "mot de passe oublie",
+    "connexion",
+    "se connecter",
+    "créer un compte",
+    "creer un compte",
+    "mon compte",
+    "espace personnel",
+    "espace client",
+    "contact",
+    "nous contacter",
+    "mentions légales",
+    "mentions legales",
+    "politique de confidentialité",
+    "politique de confidentialite",
+    "cookies",
+    "gestion des cookies",
+    "accessibilité",
+    "accessibilite",
+    "plan du site",
+    "newsletter",
+    "s'abonner",
+    "abonnez-vous",
+    "accueil",
+]
 
 USER_AGENT = (
     "Mozilla/5.0 "
@@ -201,8 +226,17 @@ def clean_text(value):
 # ---------------------------------------------------------
 
 def relevant(title, summary=""):
-    text = (title + " " + summary).lower()
+    text = clean_text(title + " " + summary).lower()
 
+    # Éliminer les liens de navigation et de compte
+    if any(term in text for term in EXCLUDED_TERMS):
+        return False
+
+    # Un titre trop court est rarement une véritable actualité
+    if len(clean_text(title)) < 20:
+        return False
+
+    # Le contenu doit réellement concerner la paie ou le social
     return any(keyword.lower() in text for keyword in KEYWORDS)
 
 
