@@ -20,7 +20,7 @@ SOURCES=[
  {'name':'Éditions Tissot','url':'https://www.editions-tissot.fr/actualite/droit-du-travail','kind':'EXPERT PAIE'}]
 KEYWORDS=['paie','paye','bulletin','salaire','dsn','cotisation','cotisations','urssaf','boss','smic','pmss','plafond sécurité sociale','plafond de la sécurité sociale','rgdu','réduction générale','reduction generale','prélèvement à la source','prelevement a la source','net social','montant net social','ijss','arrêt maladie','arret maladie','congés payés','conges payes','avantage en nature','avantages en nature','frais professionnels','rupture conventionnelle','licenciement','convention collective','heures supplémentaires','heures supplementaires','retraite complémentaire','retraite complementaire','indemnité','indemnite','employeur','salarié','salarie','prime','rémunération','remuneration']
 EXCLUDED_TERMS=['mot de passe oublié','mot de passe oublie','connexion','se connecter','créer un compte','creer un compte','mon compte','espace personnel','espace client','contact','nous contacter','mentions légales','mentions legales','politique de confidentialité','politique de confidentialite','cookies','gestion des cookies','accessibilité','accessibilite','plan du site','newsletter',"s'abonner",'abonnez-vous','accueil']
-UA='Mozilla/5.0 (compatible; VeilleJurSoc/4.3; +https://github.com/bastiaancampagne/VeilleJurSoc)'
+UA='Mozilla/5.0 (compatible; VeilleJurSoc/4.4; +https://github.com/bastiaancampagne/VeilleJurSoc)'
 
 def fetch(url,timeout=20):
  req=urllib.request.Request(url,headers={'User-Agent':UA,'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'})
