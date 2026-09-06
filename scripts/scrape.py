@@ -805,6 +805,26 @@ def main():
         )
     ]
 
+     # Supprimer les dates de publication futures déjà enregistrées
+     now = datetime.datetime.now(
+         datetime.timezone.utc
+    )
+
+    for item in items:
+        published = item.get("publishedAt")
+
+        if published:
+            try:
+                published_dt = datetime.datetime.fromisoformat(
+                    published
+                )
+
+                if published_dt > now:
+                    item["publishedAt"] = None
+
+            except Exception:
+                item["publishedAt"] = None
+    
     # Maximum 1500 trouvailles
     if len(items) > 1500:
         items = items[-1500:]
