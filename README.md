@@ -56,3 +56,7 @@ La page Remerciements reprend le visuel « Frôler la perfection », avec le tex
 
 ## v4.9
 La flamme de la Légion étrangère de la page Remerciements a été remplacée par l’image exacte fournie par l’utilisateur.
+
+
+## v4.10
+Page Remerciements mise à jour avec l’insigne circulaire exact fourni, fond extérieur transparent et sans mention LEGIO PATRIA NOSTRA. Maquette complète incluse dans `maquette/VeilleJurSoc_maquette_v4_10.png`.

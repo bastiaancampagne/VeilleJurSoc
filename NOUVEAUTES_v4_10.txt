@@ -1,0 +1,11 @@
+VeilleJurSoc PWA v4.10
+
+- Page Remerciements alignée sur la maquette validée.
+- Affiche « Passer à côté d’une gestionnaire de paie… » conservée.
+- Texte original des remerciements conservé.
+- Insigne circulaire Légion étrangère remplacé par l’image fournie par l’utilisateur.
+- Blanc autour du cercle rendu transparent afin de se fondre dans le fond noir.
+- Suppression de toute mention « LEGIO PATRIA NOSTRA ».
+- Bastiaan (31) TM reste dans le pied de page de l’application.
+- Maquette complète v4.10 incluse dans /maquette.
+- Cache PWA v10 / ressources v50.

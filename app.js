@@ -150,12 +150,14 @@ function showAddArticle(){
 }
 function showThanks(){
  setScene("thanks");
- app.innerHTML=`<section class="thanks-poster">
-   <img class="perfection-poster" src="assets/perfection.jpg" alt="Passer à côté d’une gestionnaire de paie, c’est frôler la perfection">
-   <div class="thanks-copy">
-     <p>Un grand merci à<br><b>Aurore, Chloé, Gaëlle, Tess et Thomas</b><br>pour tous les bons moments partagés pendant notre formation.</p>
-     <p>Un grand merci également à<br><b>Damien et Sylvie</b>,<br>pour leur accompagnement, leur patience et tout ce qu’ils nous ont transmis.</p>
-     <img class="legion-flame" src="assets/legion_flame.png" alt="Flamme de la Légion étrangère">
+ app.innerHTML=`<section class="thanks-stage">
+   <div class="thanks-visual">
+     <img class="perfection-poster" src="assets/perfection.jpg" alt="Passer à côté d’une gestionnaire de paie, c’est frôler la perfection">
+     <div class="thanks-copy">
+       <p>Un grand merci à<br><b>Aurore, Chloé, Gaëlle, Tess et Thomas</b><br>pour tous les bons moments partagés pendant notre formation.</p>
+       <p>Un grand merci également à<br><b>Damien et Sylvie</b>,<br>pour leur accompagnement, leur patience et tout ce qu’ils nous ont transmis.</p>
+       <img class="legion-patch" src="assets/legion_patch.png" alt="Insigne Légion étrangère">
+     </div>
    </div>
  </section>`;
 }
@@ -165,5 +167,5 @@ $("#navToday").onclick=async()=>{await syncCollectedNews(false);showArticles(fal
 $("#navArchives").onclick=async()=>{await syncCollectedNews(false);showArticles(true)};
 $("#navFavorites").onclick=async()=>{await syncCollectedNews(false);showFavorites()};
 $("#navSources").onclick=showSources;
-if("serviceWorker" in navigator)window.addEventListener("load",async()=>{try{const reg=await navigator.serviceWorker.register("./sw.js?v=47");await reg.update()}catch(e){console.warn("Service worker",e)}});
+if("serviceWorker" in navigator)window.addEventListener("load",async()=>{try{const reg=await navigator.serviceWorker.register("./sw.js?v=50");await reg.update()}catch(e){console.warn("Service worker",e)}});
 showHome();
