@@ -164,7 +164,20 @@ $("#archives").onclick=async()=>{
  $("#favorites").onclick=showFavorites;$("#sources").onclick=showSources;
 }
 function showArticles(archive){
- let start=todayStart(), list=articles().filter(a=>archive?((a.publishedAt>0?a.publishedAt:a.discoveredAt)<start):((a.publishedAt>0?a.publishedAt:a.discoveredAt)>=start));
+ let start=todayStart();
+let tomorrow=start+24*60*60*1000;
+
+let list=articles().filter(a=>{
+ const published=Number(a.publishedAt)||0;
+
+ if(archive){
+  // Archives : publications antérieures + articles sans date connue
+  return !published || published<start;
+ }
+
+ // Aujourd’hui : uniquement les articles réellement publiés aujourd’hui
+ return published>=start && published<tomorrow;
+});
  app.innerHTML=`<h1 class="section-title">${archive?"🗄️ Archives":"📰 Aujourd’hui"}</h1>${hero("emu_news_hero.png",true)}
  <div class="toolbar"><button class="action blue" id="refresh">🌐 Rechercher les nouveautés</button><button class="action green" id="add">＋ Ajouter un article</button></div>
  <p class="muted">${list.length} trouvaille(s) • les plus récentes en haut</p><div id="articleList">${renderArticles(list)}</div>`;
