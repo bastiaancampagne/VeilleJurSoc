@@ -42,92 +42,32 @@ function toTime(value){
  const t=Date.parse(value);
  return Number.isFinite(t)?t:0;
 }
-
-function normalizeArticle(a){
- return {
-  ...a,
-  publishedAt:toTime(a.publishedAt),
-  discoveredAt:toTime(a.discoveredAt)
- };
-}
-
+function normalizeArticle(a){return {...a,publishedAt:toTime(a.publishedAt),discoveredAt:toTime(a.discoveredAt)}}
 async function syncCollectedNews(showMessage=true){
  try{
-  const response=await fetch(
-   REMOTE_NEWS_URL+"?t="+Date.now(),
-   {cache:"no-store"}
-  );
-
+  const response=await fetch(REMOTE_NEWS_URL+"?t="+Date.now(),{cache:"no-store"});
   if(!response.ok)throw new Error("HTTP "+response.status);
-
-  const data=await response.json();
-  const remote=Array.isArray(data.items)?data.items:[];
-
-  const current=articles().map(normalizeArticle);
-  const byUrl=new Map();
-
-  current.forEach(a=>{
-   if(a.url)byUrl.set(a.url,a);
-  });
-
+  const data=await response.json(), remote=Array.isArray(data.items)?data.items:[];
+  const byUrl=new Map(); articles().map(normalizeArticle).forEach(a=>{if(a.url)byUrl.set(a.url,a)});
   let added=0;
-
-  remote.forEach(raw=>{
-   const a=normalizeArticle(raw);
-
+  remote.map(normalizeArticle).forEach(a=>{
    if(!a.url)return;
-
-   if(!byUrl.has(a.url)){
-    byUrl.set(a.url,a);
-    added++;
-   }else{
-    const old=byUrl.get(a.url);
-
-    byUrl.set(a.url,{
-     ...old,
-     ...a,
-     summary:a.summary||old.summary||"",
-     publishedAt:a.publishedAt||old.publishedAt||0,
-     discoveredAt:a.discoveredAt||old.discoveredAt||0
-    });
-   }
+   if(!byUrl.has(a.url)){byUrl.set(a.url,a);added++;return}
+   const old=byUrl.get(a.url);
+   byUrl.set(a.url,{...old,...a,summary:a.summary||old.summary||"",publishedAt:a.publishedAt||old.publishedAt||0,discoveredAt:a.discoveredAt||old.discoveredAt||0});
   });
-
-  const merged=[...byUrl.values()];
-  setJSON("vjs_articles",merged);
-
-  const refreshDate=data.generated_at
-   ? new Date(data.generated_at)
-   : new Date();
-
-  localStorage.setItem(
-   "vjs_last_refresh",
-   new Intl.DateTimeFormat(
-    "fr-FR",
-    {dateStyle:"short",timeStyle:"short"}
-   ).format(refreshDate)
-  );
-
-  if(showMessage){
-   toast(
-    added
-     ? `${added} nouvelle(s) trouvaille(s)`
-     : "Veille actualisée"
-   );
-  }
-
+  setJSON("vjs_articles",[...byUrl.values()]);
+  const refreshDate=data.generated_at?new Date(data.generated_at):new Date();
+  localStorage.setItem("vjs_last_refresh",new Intl.DateTimeFormat("fr-FR",{dateStyle:"short",timeStyle:"short"}).format(refreshDate));
+  if(showMessage)toast(added?`${added} nouvelle(s) trouvaille(s)`:"Veille actualisée");
   return true;
-
  }catch(error){
   console.error("Synchronisation VeilleJurSoc :",error);
-
-  if(showMessage){
-   toast("Impossible d’actualiser. Données locales conservées.");
-  }
-
+  if(showMessage)toast("Impossible d’actualiser. Données locales conservées.");
   return false;
  }
 }
+
 function showHome(){
  app.innerHTML=`<section>${hero("emu_home_hero.png")}<h1 class="title">VeilleJurSoc</h1>
  <p class="subtitle">Votre veille juridique et sociale pour les professionnels de la paie</p>
@@ -142,73 +82,36 @@ function showHome(){
  <p class="muted">Dernière mise à jour locale : ${esc(localStorage.getItem("vjs_last_refresh")||"jamais")}</p>
  <p class="note"><b>Version PWA :</b> les nouveautés sont collectées automatiquement depuis les 12 sources de référence puis affichées directement dans VeilleJurSoc. Les recherches, archives et favoris utilisent ces trouvailles enregistrées.</p>
  </section>`;
- $("#searchGo").onclick=async()=>{
- await syncCollectedNews(false);
- showSearch($("#homeSearch").value.trim());
-};
- 
- $("#today").onclick=async()=>{
- await syncCollectedNews(false);
- showArticles(false);
-};
-$("#homeSearch").onkeydown=async e=>{
- if(e.key==="Enter"){
-  await syncCollectedNews(false);
-  showSearch(e.target.value.trim());
- }
-};
-$("#archives").onclick=async()=>{
- await syncCollectedNews(false);
- showArticles(true);
-};
+ $("#searchGo").onclick=async()=>{await syncCollectedNews(false);showSearch($("#homeSearch").value.trim())};
+ $("#homeSearch").onkeydown=async e=>{if(e.key==="Enter"){await syncCollectedNews(false);showSearch(e.target.value.trim())}};
+ $("#today").onclick=async()=>{await syncCollectedNews(false);showArticles(false)};
+ $("#archives").onclick=async()=>{await syncCollectedNews(false);showArticles(true)};
  $("#favorites").onclick=showFavorites;$("#sources").onclick=showSources;
 }
 function showArticles(archive){
- let start=todayStart();
-let tomorrow=start+24*60*60*1000;
-
-let list=articles().filter(a=>{
- const published=Number(a.publishedAt)||0;
-
- if(archive){
-  // Archives : publications antérieures + articles sans date connue
-  return !published || published<start;
- }
-
- // Aujourd’hui : uniquement les articles réellement publiés aujourd’hui
- return published>=start && published<tomorrow;
-});
+ let start=todayStart(), tomorrow=start+24*60*60*1000;
+ let list=articles().filter(a=>{
+  const published=Number(a.publishedAt)||0;
+  return archive ? (!published || published<start) : (published>=start && published<tomorrow);
+ });
  app.innerHTML=`<h1 class="section-title">${archive?"🗄️ Archives":"📰 Aujourd’hui"}</h1>${hero("emu_news_hero.png",true)}
- <div class="toolbar"><button class="action blue" id="refresh">🌐 Rechercher les nouveautés</button><button class="action green" id="add">＋ Ajouter un article</button></div>
+ <div class="toolbar"><button class="action blue" id="refresh">↻ Actualiser les trouvailles</button><button class="action green" id="add">＋ Ajouter un article</button></div>
  <p class="muted">${list.length} trouvaille(s) • les plus récentes en haut</p><div id="articleList">${renderArticles(list)}</div>`;
- $("#refresh").onclick=async()=>{
- await syncCollectedNews(true);
- showArticles(archive);
-};
-
-$("#add").onclick=showAddArticle;
+ $("#refresh").onclick=async()=>{await syncCollectedNews(true);showArticles(archive)};
+ $("#add").onclick=showAddArticle;
 }
+
 function showSearch(initial=""){
  app.innerHTML=`<h1 class="section-title">🔎 Recherche</h1>${hero("emu_search_hero.png",true)}
  <p>Cherchez dans les contenus enregistrés ou lancez une recherche ciblée sur vos 12 sites de référence.</p>
  <div class="stack"><input id="q" placeholder="Mot-clé" value="${esc(initial)}"><select id="src"><option>Toutes les sources</option>${SOURCES.map(s=>`<option>${esc(s[0])}</option>`).join("")}</select>
- <button class="action green" id="local">Rechercher les trouvailles</button><button class="action blue" id="web">🌐 Actualiser les trouvailles</button></div>
+ <button class="action green" id="local">🔎 Rechercher les trouvailles</button><button class="action blue" id="web">↻ Actualiser les trouvailles</button></div>
  <p id="searchStatus" class="muted"></p><div id="results"></div>`;
  const run=()=>{let q=$("#q").value.trim(),src=$("#src").value;if(!q)return toast("Saisissez un mot-clé");
    let nq=norm(q),list=articles().filter(a=>(norm(`${a.title} ${a.summary} ${a.source}`).includes(nq))&&(src==="Toutes les sources"||a.source===src));
    $("#searchStatus").textContent=`${list.length} résultat(s) dans Aujourd’hui + Archives`;$("#results").innerHTML=renderArticles(list)};
- $("#local").onclick=run;
-
-$("#web").onclick=async()=>{
- await syncCollectedNews(true);
- run();
-};
+ $("#local").onclick=run;$("#web").onclick=async()=>{await syncCollectedNews(true);run()};
  if(initial)run();
-}
-function openWebSearch(term){
- let sites="("+SOURCES.map(s=>`site:${s[2]}`).join(" OR ")+") "+term;
- window.open("https://www.google.com/search?q="+encodeURIComponent(sites),"_blank","noopener");
- localStorage.setItem("vjs_last_refresh",new Intl.DateTimeFormat("fr-FR",{dateStyle:"short",timeStyle:"short"}).format(new Date()));
 }
 function showSources(){
  app.innerHTML=`<h1 class="section-title">🔗 Les 12 sources</h1>${hero("emu_news_hero.png",true)}

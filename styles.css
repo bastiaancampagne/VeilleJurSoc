@@ -34,3 +34,13 @@ input,select{width:100%;padding:.9rem;border:1px solid #aeb8c4;border-radius:12p
 .empty.compact{padding:.8rem 0}
 .fav-results-title{margin-top:1.4rem;font-size:1.45rem}
 @media(max-width:520px){.toolbar{display:grid;grid-template-columns:1fr}}
+
+
+/* Signature affichée en bas de toutes les pages */
+.app-signature{
+  text-align:center;
+  font-size:.76rem;
+  font-weight:600;
+  opacity:.62;
+  padding:1rem .75rem calc(1rem + env(safe-area-inset-bottom));
+}
