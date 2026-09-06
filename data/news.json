@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-06T00:49:16.107376+00:00",
+  "generated_at": "2026-09-06T00:56:08.258105+00:00",
   "items": [
     {
-      "title": "La DSN repose sur la transmission unique, mensuelle et dématérialisée des données issues de la paie et sur des signalements d’événements.",
+      "title": "La Déclaration Sociale Nominative – DSN",
       "url": "https://www.net-entreprises.fr/tableau-de-bord-dsn/",
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "La DSN – Déclaration Sociale Nominative – est obligatoire pour toutes les entreprises du secteur privé depuis 2017 et le devient progressivement.",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:18.952102+00:00"
     },
@@ -16,7 +16,7 @@
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2020-09-16T13:33:34+00:00",
       "discoveredAt": "2026-09-06T00:02:18.952472+00:00"
     },
     {
@@ -25,7 +25,7 @@
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2020-09-11T12:46:59+00:00",
       "discoveredAt": "2026-09-06T00:02:18.952589+00:00"
     },
     {
@@ -34,7 +34,7 @@
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2020-09-16T14:09:55+00:00",
       "discoveredAt": "2026-09-06T00:02:18.952755+00:00"
     },
     {
@@ -42,17 +42,17 @@
       "url": "https://www.net-entreprises.fr/tableau-de-bord-pasrau/",
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "Le dispositif PASRAU (Passage des revenus autres) résulte de travaux de simplification et de rationalisation des déclarations sociales",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:18.953019+00:00"
     },
     {
-      "title": "Le tableau de bord PASRAU vous informe de la situation de vos traitements et vous délivre les retours positifs ou avec anomalies.",
+      "title": "Le tableau de bord PASRAU",
       "url": "https://www.net-entreprises.fr/declaration/tableau-de-bord-pasrau/",
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2020-09-16T10:08:28+00:00",
       "discoveredAt": "2026-09-06T00:02:18.953064+00:00"
     },
     {
@@ -61,7 +61,7 @@
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2020-09-08T12:21:29+00:00",
       "discoveredAt": "2026-09-06T00:02:18.953993+00:00"
     },
     {
@@ -70,7 +70,7 @@
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2020-11-13T16:02:43+00:00",
       "discoveredAt": "2026-09-06T00:02:18.954749+00:00"
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://entreprendre.service-public.gouv.fr/actualites/A19062",
       "source": "Service-Public Pro",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "La réforme de l’injonction de payer s’applique aux ordonnances d’injonction de payer rendues à partir du 1er septembre 2026",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:21.440430+00:00"
     },
@@ -92,7 +92,7 @@
       "discoveredAt": "2026-09-06T00:02:23.007038+00:00"
     },
     {
-      "title": "Conseils pour vos déclarations et cotisations",
+      "title": "Vos déclarations et cotisations",
       "url": "https://www.francetravail.fr/employeur/vos-declarations-et-cotisations.html",
       "source": "France Travail",
       "sourceKind": "OFFICIEL",
@@ -101,11 +101,11 @@
       "discoveredAt": "2026-09-06T00:02:23.007199+00:00"
     },
     {
-      "title": "Particulier employeur",
+      "title": "Vous êtes un particulier employeur",
       "url": "https://www.francetravail.fr/employeur/vous-etes-un-particulier-employe.html",
       "source": "France Travail",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "Vous êtes particulier employeur, retrouvez dans cette rubrique toutes les informations dont vous avez besoin.",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:23.007284+00:00"
     },
@@ -123,7 +123,7 @@
       "url": "https://www.francetravail.fr/employeur/vos-declarations-et-cotisations/la-fin-de-vos-contrats-de-travai/lattestation-employeur-destinee.html",
       "source": "France Travail",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "L",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:23.009019+00:00"
     },
@@ -132,7 +132,7 @@
       "url": "https://www.francetravail.fr/spectacle/",
       "source": "France Travail",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "francetravail.fr/spectacle est destiné aux intermittents du spectacle et futurs intermittents, ainsi qu’aux employeurs du secteur. Le site propose des pages et guides réglementaires sur les annexes 8 et 10 et des outils et informations pratiques pour accompagner les professionnels du spectacle dans leurs démarches.",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:23.009634+00:00"
     },
@@ -141,7 +141,7 @@
       "url": "https://www.francetravail.fr/employeur/vos-declarations-et-cotisations/lexpatriation-de-vos-salaries/lassurance-chomage-des-salaries.html",
       "source": "France Travail",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "L",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:23.009692+00:00"
     },
@@ -168,7 +168,7 @@
       "url": "https://www.francetravail.fr/employeur/vos-declarations-et-cotisations/vous-etes-un-employeur-public.html",
       "source": "France Travail",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "Que vous représentiez une collectivité territoriale, un ministère, un établissement public industriel ou administratif, en tant qu'employeur public vous devez assurer vos agents contre le risque chômage. Découvrez dans cette rubrique l'ensemble des options et des outils à votre disposition selon votre situation.",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:23.010469+00:00"
     },
@@ -200,20 +200,11 @@
       "discoveredAt": "2026-09-06T00:02:23.011414+00:00"
     },
     {
-      "title": "Où envoyer mes bulletins de salaire",
-      "url": "https://www.francetravail.fr/candidat/vos-droits-et-demarches/vos-changements-de-situation/actualisation-mensuelle--ou-envo.html",
-      "source": "France Travail",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": null,
-      "discoveredAt": "2026-09-06T00:02:23.011501+00:00"
-    },
-    {
       "title": "Le calendrier des paiements",
       "url": "https://www.francetravail.fr/candidat/vos-droits-et-demarches/vos-demarches-aupres-de-pole-emp/le-calendrier-des-paiements.html",
       "source": "France Travail",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "Le calendrier des paiements et de l",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:23.011549+00:00"
     },
@@ -402,8 +393,8 @@
       "url": "https://www.revue-fiduciaire.com/actualite/article/guide-2026-relatif-aux-decisions-administratives-en-matiere-de-rupture-ou-de-transfert-du-contrat-de-travail-des-salaries-proteges-1e809902-9425-8684-9e14-74674d7c345f",
       "source": "RF Paye",
       "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": null,
+      "summary": "La DGT vient de diffuser son nouveau Guide relatif aux décisions administratives en matière de rupture ou transfert du contrat de travail",
+      "publishedAt": "2026-09-04T08:30:00+00:00",
       "discoveredAt": "2026-09-06T00:02:30.261188+00:00"
     },
     {
@@ -411,8 +402,8 @@
       "url": "https://www.revue-fiduciaire.com/actualite/article/instauration-du-versement-mobilite-dans-une-nouvelle-zone-en-bretagne-au-1er-septembre-2026",
       "source": "RF Paye",
       "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": null,
+      "summary": "Le site interne du réseau des URSSAF a annoncé l'instauration, à compter du 1er septembre 2026, du versement mobilité au taux de 0,55 %,",
+      "publishedAt": "2026-09-03T12:11:28+00:00",
       "discoveredAt": "2026-09-06T00:02:30.261334+00:00"
     },
     {
@@ -420,8 +411,8 @@
       "url": "https://www.revue-fiduciaire.com/actualite/article/rappel-depuis-le-1er-septembre-2026-la-procedure-d-injonction-de-payer-a-change-17c81992-0031-84a5-9e54-6afbb2b5fd87",
       "source": "RF Paye",
       "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": null,
+      "summary": "La réforme de l'injonction de payer résultant du décret 2026-96 du 16 février 2026 est désormais effective. Elle s'applique aux",
+      "publishedAt": "2026-09-03T09:00:00+00:00",
       "discoveredAt": "2026-09-06T00:02:30.261418+00:00"
     },
     {
@@ -497,12 +488,12 @@
       "discoveredAt": "2026-09-06T00:02:30.804983+00:00"
     },
     {
-      "title": "À partir du Mois Principal Déclaré (MPD) de janvier 2024, le Montant Net Social (MNS) devra être déclaré en DSN, en version de norme P24V01.",
+      "title": "Les pilotes DSN en cours",
       "url": "https://www.net-entreprises.fr/declaration/pilotes-dsn/",
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
       "summary": "",
-      "publishedAt": null,
+      "publishedAt": "2020-09-18T13:05:57+00:00",
       "discoveredAt": "2026-09-06T00:38:23.743352+00:00"
     },
     {
@@ -510,7 +501,7 @@
       "url": "https://www.net-entreprises.fr/presse-et-chercheurs/dossiers-de-presse-et-tribunes-net-entreprises/",
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "Téléchargez les Brochures, Rapport annuel net-entreprises.fr, DSN Fonction publique et DSN et découvrez les tribunes d’Élisabeth Humbert-Bottin et Éric Hayat.",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:38:23.743695+00:00"
     },
@@ -528,7 +519,7 @@
       "url": "https://www.net-entreprises.fr/tableau-de-bord-autres-declarations-et-services/tableau-de-bord-cotisations/",
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
-      "summary": "",
+      "summary": "Net-entreprises est le service proposé aux entreprises et à leurs mandataires (experts-comptables, centres et associations de gestion agréés…",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:38:23.744511+00:00"
     },
@@ -540,6 +531,24 @@
       "summary": "",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:38:36.058261+00:00"
+    },
+    {
+      "title": "Avec le compte AT/MP, l’Assurance Maladie – Risques professionnels met à la disposition des employeurs des informations utiles pour gérer leurs risques professionnels. Quand vous le souhaitez, consultez en ligne vos taux de cotisation notifiés et le détail de leur calcul.",
+      "url": "https://www.net-entreprises.fr/declaration/compte-entreprise-service-de-depot-de-pj/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": "2022-11-30T09:39:03+00:00",
+      "discoveredAt": "2026-09-06T00:55:32.601494+00:00"
+    },
+    {
+      "title": "Suivre les Podcasts et vidéos de nos experts Vie des affaires Fiscal Social Comptable Paye",
+      "url": "https://www.revue-fiduciaire.com/",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Revue Fiduciaire est un éditeur de documentation juridique en droit social, fiscalité, comptablité, vie des affaires, gestion de la paye et gestion de patrimoine.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-06T00:56:01.681202+00:00"
     }
   ],
   "errors": [
