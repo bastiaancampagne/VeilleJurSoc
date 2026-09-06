@@ -299,6 +299,38 @@ def parse_date(value):
 # Création d'une trouvaille
 # ---------------------------------------------------------
 
+def extract_published_date(page):
+    if not page:
+        return None
+
+    patterns = [
+        r'<meta[^>]+property=["\']article:published_time["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']article:published_time["\']',
+        r'<meta[^>]+name=["\']date["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']date["\']',
+        r'<meta[^>]+name=["\']publish-date["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<time[^>]+datetime=["\']([^"\']+)["\']',
+    ]
+
+    for pattern in patterns:
+        match = re.search(
+            pattern,
+            page,
+            flags=re.I | re.S,
+        )
+
+        if match:
+            parsed = parse_date(
+                html.unescape(
+                    match.group(1)
+                )
+            )
+
+            if parsed:
+                return parsed
+
+    return None
+
 def make_item(source, title, url, summary="", published_at=None):
     return {
         "title": title[:300],
@@ -457,13 +489,18 @@ def parse_feed(raw, source):
 # ---------------------------------------------------------
 
 def extract_page_links(page, base_url, source):
-    results = []
+    candidates = []
+    seen = set()
 
     pattern = (
         r'<a\b[^>]*'
         r'href=["\']([^"\']+)["\']'
         r'[^>]*>(.*?)</a>'
     )
+
+    base_domain = urllib.parse.urlparse(
+        base_url
+    ).netloc.lower()
 
     for match in re.finditer(
         pattern,
@@ -478,7 +515,7 @@ def extract_page_links(page, base_url, source):
             match.group(2)
         )
 
-        if len(title) < 18:
+        if len(title) < 20:
             continue
 
         if len(title) > 300:
@@ -497,16 +534,102 @@ def extract_page_links(page, base_url, source):
         ):
             continue
 
+        # Éviter de sortir inutilement du site surveillé
+        domain = urllib.parse.urlparse(
+            url
+        ).netloc.lower()
+
+        if (
+            base_domain
+            and domain
+            and not (
+                domain == base_domain
+                or domain.endswith("." + base_domain)
+                or base_domain.endswith("." + domain)
+            )
+        ):
+            continue
+
+        # Éviter les doublons
+        clean_url = url.split("#")[0]
+
+        if clean_url in seen:
+            continue
+
+        seen.add(clean_url)
+
+        candidates.append(
+            {
+                "title": title,
+                "url": clean_url,
+            }
+        )
+
+    results = []
+
+    # On limite le nombre de pages ouvertes
+    # pour ne pas ralentir excessivement GitHub Actions.
+    for candidate in candidates[:12]:
+        title = candidate["title"]
+        url = candidate["url"]
+
+        summary = ""
+        published = None
+
+        try:
+            article_raw, final_url = fetch(
+                url,
+                timeout=12,
+            )
+
+            article_page = article_raw.decode(
+                "utf-8",
+                errors="replace",
+            )
+
+            published = extract_published_date(
+                article_page
+            )
+
+            # Essayer de récupérer une description
+            description_patterns = [
+                r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)["\']',
+                r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']description["\']',
+                r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)["\']',
+                r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:description["\']',
+            ]
+
+            for description_pattern in description_patterns:
+                description_match = re.search(
+                    description_pattern,
+                    article_page,
+                    flags=re.I | re.S,
+                )
+
+                if description_match:
+                    summary = clean_text(
+                        html.unescape(
+                            description_match.group(1)
+                        )
+                    )
+                    break
+
+            url = final_url
+
+        except Exception:
+            pass
+
         results.append(
             make_item(
                 source,
                 title,
                 url,
+                summary,
+                published,
             )
         )
 
-    return results[:50]
-
+    return results
 
 # ---------------------------------------------------------
 # Programme principal
