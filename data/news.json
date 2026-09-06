@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T00:43:34.932167+00:00",
+  "generated_at": "2026-09-06T00:49:16.107376+00:00",
   "items": [
     {
       "title": "La DSN repose sur la transmission unique, mensuelle et dématérialisée des données issues de la paie et sur des signalements d’événements.",
@@ -218,24 +218,6 @@
       "discoveredAt": "2026-09-06T00:02:23.011549+00:00"
     },
     {
-      "title": "Solution recrutement, la newsletter pour les employeurs",
-      "url": "https://www.francetravail.fr/employeur/solution-recrutement.html",
-      "source": "France Travail",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": null,
-      "discoveredAt": "2026-09-06T00:02:23.011812+00:00"
-    },
-    {
-      "title": "Questions et contacts - employeur",
-      "url": "https://www.francetravail.fr/faq/employeur.html",
-      "source": "France Travail",
-      "sourceKind": "OFFICIEL",
-      "summary": "",
-      "publishedAt": null,
-      "discoveredAt": "2026-09-06T00:02:23.011863+00:00"
-    },
-    {
       "title": "Remettre une attestation employeur",
       "url": "https://pro.francetravail.fr/accueil/description/attestation-employeur",
       "source": "France Travail",
@@ -261,15 +243,6 @@
       "summary": "Pour mieux comprendre votre retraite complémentaire, retrouvez « Ma retraite en… 1 minute max’ », une série de vidéos courtes et une playlist régulièrement mise à jour pour répondre à vos questions.",
       "publishedAt": "2026-07-27T07:22:34+00:00",
       "discoveredAt": "2026-09-06T00:02:25.558850+00:00"
-    },
-    {
-      "title": "Le replay « Agirc-Arrco Pro : l’essentiel pour bien débuter » est disponible",
-      "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/le-replay-agirc-arrco-pro-lessentiel-pour-bien-debuter-est-disponible/",
-      "source": "Agirc-Arrco",
-      "sourceKind": "OFFICIEL",
-      "summary": "Pour tout connaître sur les services retraite disponibles en ligne sur votre espace client Agirc-Arrco Pro, n'hésitez pas à voir et à revoir la conférence en ligne du 16 juin 2026.",
-      "publishedAt": "2026-07-15T08:34:44+00:00",
-      "discoveredAt": "2026-09-06T00:02:25.558992+00:00"
     },
     {
       "title": "DSN de substitution, ce qu’il faut retenir",
@@ -416,15 +389,6 @@
       "discoveredAt": "2026-09-06T00:02:29.268293+00:00"
     },
     {
-      "title": "Conventions collectives : les arrêtés d'extension de l'été",
-      "url": "https://www.legisocial.fr/actualites-sociales/8073-conventions-collectives-arretes-extension.html",
-      "source": "Légisocial",
-      "sourceKind": "EXPERT PAIE",
-      "summary": "Cet été, trois arrêtés d’extension modifient les conventions collectives de l’habitat, de la pharmacie d’officine et de la fabrication du ciment. Ils imposent de nouvelles règles sur les indemnités de fin de contrat, l’accueil des stagiaires et les salaires, tout en précisant les délais de notification des licenciements économiques.",
-      "publishedAt": "2026-08-28T04:00:00+00:00",
-      "discoveredAt": "2026-09-06T00:02:29.268340+00:00"
-    },
-    {
       "title": "Suivre les Podcasts et vidéos de nos experts Vie des affaires Fiscal Social Comptable Paye",
       "url": "https://www.revue-fiduciaire.com/#sectionMedias",
       "source": "RF Paye",
@@ -477,15 +441,6 @@
       "summary": "",
       "publishedAt": null,
       "discoveredAt": "2026-09-06T00:02:30.262301+00:00"
-    },
-    {
-      "title": "Mot de passe oublié ?",
-      "url": "https://moncompte.grouperf.com/mot_de_passe_oublie.html",
-      "source": "RF Paye",
-      "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": null,
-      "discoveredAt": "2026-09-06T00:02:30.262451+00:00"
     },
     {
       "title": "Indemnité carburant 2026 : les demandes peuvent être déposées jusqu'au 30 septembre 2026",
