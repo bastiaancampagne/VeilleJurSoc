@@ -805,9 +805,9 @@ def main():
         )
     ]
 
-     # Supprimer les dates de publication futures déjà enregistrées
-     now = datetime.datetime.now(
-         datetime.timezone.utc
+    # Supprimer les dates de publication futures déjà enregistrées
+    now = datetime.datetime.now(
+        datetime.timezone.utc
     )
 
     for item in items:
