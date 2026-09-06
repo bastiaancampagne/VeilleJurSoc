@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T00:02:30.805172+00:00",
+  "generated_at": "2026-09-06T00:38:37.543215+00:00",
   "items": [
     {
-      "title": "Accédez à dsn-info",
+      "title": "La DSN repose sur la transmission unique, mensuelle et dématérialisée des données issues de la paie et sur des signalements d’événements.",
       "url": "https://www.net-entreprises.fr/tableau-de-bord-dsn/",
       "source": "Net-entreprises",
       "sourceKind": "OFFICIEL",
@@ -540,6 +540,51 @@
       "summary": "",
       "publishedAt": "2026-08-28T09:34:00+00:00",
       "discoveredAt": "2026-09-06T00:02:30.804983+00:00"
+    },
+    {
+      "title": "À partir du Mois Principal Déclaré (MPD) de janvier 2024, le Montant Net Social (MNS) devra être déclaré en DSN, en version de norme P24V01.",
+      "url": "https://www.net-entreprises.fr/declaration/pilotes-dsn/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-06T00:38:23.743352+00:00"
+    },
+    {
+      "title": "Téléchargez les Brochures, Rapport annuel net-entreprises.fr, DSN Fonction publique et DSN et découvrez les tribunes d’Élisabeth Humbert-Bottin et Éric Hayat.",
+      "url": "https://www.net-entreprises.fr/presse-et-chercheurs/dossiers-de-presse-et-tribunes-net-entreprises/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-06T00:38:23.743695+00:00"
+    },
+    {
+      "title": "Avec le compte AT/MP, l’Assurance Maladie – Risques professionnels met à la disposition des employeurs des informations utiles pour gérer leurs risques professionnels. Quand vous le souhaitez, consultez en ligne vos taux de cotisation notifiés et le détail de leur calcul.",
+      "url": "https://www.net-entreprises.fr/declaration/compte-entreprise-service-de-depot-de-pj/#compte-at-mp",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-06T00:38:23.744447+00:00"
+    },
+    {
+      "title": "Les déclarations de cotisations",
+      "url": "https://www.net-entreprises.fr/tableau-de-bord-autres-declarations-et-services/tableau-de-bord-cotisations/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-06T00:38:23.744511+00:00"
+    },
+    {
+      "title": "thematique_none Gestion de communication et marque employeur Date, lieu, durée et tarifs : sur demande En savoir plus",
+      "url": "https://www.revue-fiduciaire.com/formation/programme/thematique_none/gestion-de-communication-et-marque-employeur",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-06T00:38:36.058261+00:00"
     }
   ],
   "errors": [
