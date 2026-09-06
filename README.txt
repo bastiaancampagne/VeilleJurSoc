@@ -1,13 +1,20 @@
-VeilleJurSoc collecteur v4.4.1
+VeilleJurSoc collecteur v4.5
 
-Remplacer uniquement :
-scripts/scrape.py
+À remplacer dans GitHub :
+  scripts/scrape.py
 
-Ne remplacez PAS data/news.json.
+Ne remplacez pas data/news.json.
 
-Contrôle après copie dans GitHub :
-ouvrez scripts/scrape.py et recherchez TOPIC_RULES.
-Le terme doit être présent.
+Améliorations :
+- fenêtre d'actualité de 90 jours ;
+- suppression des anciennes pages documentaires Net-entreprises ;
+- correction du thème Rémunération pour éviter la confusion payer/paye ;
+- 3 tentatives réseau pour les erreurs temporaires ;
+- conservation du filtrage formations/podcasts/pages commerciales ;
+- conservation des topics.
 
-Puis Commit changes et lancez :
-Actions > Actualiser VeilleJurSoc > Run workflow.
+Après remplacement :
+1. Commit changes
+2. Vérifier FRESHNESS_DAYS = 90 dans scripts/scrape.py
+3. Actions > Actualiser VeilleJurSoc > Run workflow
+4. Vérifier data/news.json

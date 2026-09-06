@@ -59,6 +59,22 @@ NEWS_URL_HINTS = (
     "/news/", "/publication/", "/publications/", "/communique", "/information/"
 )
 
+FRESHNESS_DAYS = 90
+
+# Certaines pages sont utiles comme documentation mais ne sont pas des actualités.
+DOCUMENTATION_URL_TERMS = [
+    "/declaration/api-dsn/",
+    "/declaration/pilotes-dsn/",
+    "/declaration/tables-de-nomenclatures/",
+    "/declaration/comptes-rendus-metiers-dsn/",
+    "/declaration/outils-de-controle-dsn-val/",
+    "/declaration/entreprises-etrangeres/",
+    "/declaration/declarations-msa-sante/",
+    "/declaration/micro-entrepreneur/",
+    "/declaration/crpcen/",
+    "/declaration/dpae/",
+]
+
 TOPIC_RULES = [
     ("DSN", ("dsn","déclaration sociale nominative","declaration sociale nominative")),
     ("SMIC", ("smic",)),
@@ -68,27 +84,35 @@ TOPIC_RULES = [
     ("Cotisations", ("cotisation","cotisations","urssaf","boss")),
     ("Congés", ("congés payés","conges payes")),
     ("Rupture", ("rupture conventionnelle","licenciement","fin de contrat")),
-    ("Rémunération", ("rémunération","remuneration","salaire","prime","bulletin","paye","paie")),
+    ("Rémunération", ("rémunération","remuneration","salaire","prime","bulletin de paie","bulletin de paye","paie")),
     ("PAS", ("prélèvement à la source","prelevement a la source")),
     ("Net social", ("net social","montant net social")),
     ("Retraite", ("retraite complémentaire","retraite complementaire","agirc-arrco")),
 ]
 
 USER_AGENT = (
-    "Mozilla/5.0 (compatible; VeilleJurSoc/4.4.1; "
+    "Mozilla/5.0 (compatible; VeilleJurSoc/4.5; "
     "+https://github.com/bastiaancampagne/VeilleJurSoc)"
 )
 
 def fetch(url, timeout=20):
-    request = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        },
-    )
-    with urllib.request.urlopen(request, timeout=timeout) as response:
-        return response.read(), response.geturl()
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.7",
+        "Cache-Control": "no-cache",
+    }
+
+    last_error = None
+    for attempt in range(3):
+        try:
+            request = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(request, timeout=timeout + attempt * 5) as response:
+                return response.read(), response.geturl()
+        except Exception as exc:
+            last_error = exc
+
+    raise last_error
 
 def clean_text(value):
     if not value:
@@ -145,6 +169,22 @@ def is_excluded_url(url):
     lower_url = (url or "").lower()
     return any(term in lower_url for term in EXCLUDED_URL_TERMS)
 
+def is_documentation_url(url):
+    lower_url = (url or "").lower()
+    return any(term in lower_url for term in DOCUMENTATION_URL_TERMS)
+
+def is_fresh(published, days=FRESHNESS_DAYS):
+    if not published:
+        return True
+    try:
+        dt = datetime.datetime.fromisoformat(published)
+        if not dt.tzinfo:
+            dt = dt.replace(tzinfo=datetime.timezone.utc)
+        cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=days)
+        return cutoff <= dt <= datetime.datetime.now(datetime.timezone.utc)
+    except Exception:
+        return False
+
 def relevant(title, summary="", url="", published=None):
     title_text = clean_text(title).lower()
     full_text = clean_text(title + " " + summary).lower()
@@ -155,7 +195,10 @@ def relevant(title, summary="", url="", published=None):
     if any(term in title_text for term in EXCLUDED_TITLE_TERMS):
         return False
 
-    if is_excluded_url(url):
+    if is_excluded_url(url) or is_documentation_url(url):
+        return False
+
+    if published and not is_fresh(published):
         return False
 
     if not any(keyword.lower() in full_text for keyword in KEYWORDS):
@@ -413,18 +456,35 @@ def main():
 
     items = list(by_url.values())
 
-    # Nettoyer toute date future qui aurait été enregistrée auparavant.
+    # Nettoyer les dates futures et supprimer les publications datées
+    # de plus de 90 jours. Les pages sans date ne sont conservées que
+    # si elles ressemblent réellement à une actualité.
     now = datetime.datetime.now(datetime.timezone.utc)
+    cutoff = now - datetime.timedelta(days=FRESHNESS_DAYS)
+    cleaned_items = []
+
     for item in items:
         published = item.get("publishedAt")
-        if not published:
+        url = item.get("url", "")
+
+        if is_documentation_url(url):
             continue
-        try:
-            published_dt = datetime.datetime.fromisoformat(published)
-            if published_dt > now:
-                item["publishedAt"] = None
-        except Exception:
-            item["publishedAt"] = None
+
+        if published:
+            try:
+                published_dt = datetime.datetime.fromisoformat(published)
+                if not published_dt.tzinfo:
+                    published_dt = published_dt.replace(tzinfo=datetime.timezone.utc)
+                if published_dt > now or published_dt < cutoff:
+                    continue
+            except Exception:
+                continue
+        elif not looks_like_news_url(url):
+            continue
+
+        cleaned_items.append(item)
+
+    items = cleaned_items
 
     # Les plus récentes d'abord pour faciliter le contrôle du JSON.
     items.sort(
