@@ -150,7 +150,14 @@ function showAddArticle(){
 }
 function showThanks(){
  setScene("thanks");
- app.innerHTML=`<section class="thanks-panel glass"><h1>❤️ Remerciements</h1><p>Un grand merci à <b>Aurore, Chloé, Gaëlle, Tess et Thomas</b> pour tous les bons moments partagés pendant notre formation.</p><p>Un grand merci également à <b>Damien et Sylvie</b>, pour leur accompagnement, leur patience et tout ce qu’ils nous ont transmis.</p><p class="thanks-signature">Bastiaan (31) TM</p><img class="legion-flame" src="assets/legion_flame.svg" alt="Flamme décorative de la Légion étrangère"></section>`;
+ app.innerHTML=`<section class="thanks-poster">
+   <img class="perfection-poster" src="assets/perfection.jpg" alt="Passer à côté d’une gestionnaire de paie, c’est frôler la perfection">
+   <div class="thanks-copy">
+     <p>Un grand merci à<br><b>Aurore, Chloé, Gaëlle, Tess et Thomas</b><br>pour tous les bons moments partagés pendant notre formation.</p>
+     <p>Un grand merci également à<br><b>Damien et Sylvie</b>,<br>pour leur accompagnement, leur patience et tout ce qu’ils nous ont transmis.</p>
+     <img class="legion-flame" src="assets/legion_flame.svg" alt="Flamme de la Légion étrangère">
+   </div>
+ </section>`;
 }
 $("#homeBtn").onclick=showHome;$("#thanksBtn").onclick=showThanks;
 $("#navHome").onclick=showHome;

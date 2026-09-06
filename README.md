@@ -49,3 +49,6 @@ Une fois déployée en HTTPS, ouvrir la PWA dans Chrome/Edge puis choisir
 - Import de ce fichier sur un autre appareil.
 - Les favoris importés sont fusionnés sans doublons avec ceux déjà présents.
 - Les favoris restent personnels à chaque appareil et ne modifient pas GitHub.
+
+## v4.8
+La page Remerciements reprend le visuel « Frôler la perfection », avec le texte original et la flamme de la Légion étrangère sous le message. La signature Bastiaan (31) TM reste dans le pied de page de l'application.

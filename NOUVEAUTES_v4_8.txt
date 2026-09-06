@@ -1,0 +1,8 @@
+VeilleJurSoc PWA v4.8 — Remerciements personnalisés
+
+- Page Remerciements reconstruite à partir du visuel « Frôler la perfection ».
+- Texte original conservé pour Aurore, Chloé, Gaëlle, Tess, Thomas, Damien et Sylvie.
+- La mention située sous le texte est remplacée par la flamme de la Légion étrangère.
+- La signature fixe « Bastiaan (31) TM » reste en bas de l’application.
+- Boutons Accueil / Remerciements et navigation inférieure conservés.
+- Les autres pages et fonctions de la v4.7 restent inchangées.
