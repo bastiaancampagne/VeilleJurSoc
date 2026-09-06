@@ -660,6 +660,15 @@ def main():
     items = list(
         by_url.values()
     )
+    
+    # Nettoyer également les anciennes trouvailles
+    items = [
+        item for item in items
+        if relevant(
+            item.get("title", ""),
+            item.get("summary", "")
+        )
+    ]
 
     # Maximum 1500 trouvailles
     if len(items) > 1500:
