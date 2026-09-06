@@ -1,0 +1,6 @@
+VeilleJurSoc PWA v4.3.1
+
+- Correction du conflit GitHub lors de l'enregistrement de data/news.json.
+- Une seule collecte GitHub Actions peut maintenant s'exécuter à la fois.
+- Le workflow récupère les éventuelles mises à jour de main avant le push.
+- Conservation de la signature « Bastiaan (31) TM » visible en bas de l'écran.

@@ -1,0 +1,12 @@
+VeilleJurSoc PWA v4.6
+
+- Scènes avec l'émeu utilisées en arrière-plan plein écran ; contenus et boutons au premier plan.
+- Aujourd'hui : si aucune publication du jour, affichage des 3 dernières publications datées.
+- Archives : articles datés en premier ; dates inconnues déplacées en fin de liste.
+- Synchronisation : purge automatique des anciennes données locales absentes du JSON distant.
+- Les articles ajoutés manuellement restent conservés.
+- Filtrage client de l'injonction de payer.
+- Favoris : bouton Actualiser et prise en compte des topics ; termes courts (ex. PS) recherchés comme mots isolés.
+- Remerciements : flamme décorative sous Bastiaan (31) TM.
+- Collecteur inclus avec FRESHNESS_DAYS = 365.
+- Cache PWA mis à jour.

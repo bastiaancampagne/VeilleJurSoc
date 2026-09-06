@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 300" role="img" aria-labelledby="t d">
+  <title id="t">Flamme stylisée</title><desc id="d">Flamme décorative vert, rouge et or inspirée de l’emblème de la Légion étrangère.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#9b6a12"/><stop offset=".48" stop-color="#f6d773"/><stop offset="1" stop-color="#9b6a12"/></linearGradient>
+  </defs>
+  <g stroke="#6c4b12" stroke-width="5" stroke-linejoin="round">
+    <path fill="url(#gold)" d="M120 15c11 33 4 55-8 76 22-21 36-45 39-73 20 36 16 69-4 99 24-22 38-47 40-74 23 50 10 94-25 126H78c-36-35-45-81-21-128 3 31 17 57 40 79-20-34-22-70-6-105 5 31 17 54 29 76-7-27-5-52 0-76z"/>
+    <path fill="#16824b" d="M84 146c-29 7-50 30-50 58 0 27 19 49 46 56 17-12 27-30 27-50 0-24-9-45-23-64z"/>
+    <path fill="#d83232" d="M156 146c29 7 50 30 50 58 0 27-19 49-46 56-17-12-27-30-27-50 0-24 9-45 23-64z"/>
+    <circle cx="120" cy="218" r="50" fill="url(#gold)"/>
+    <circle cx="120" cy="218" r="27" fill="#f5df8c"/>
+  </g>
+  <text x="120" y="292" text-anchor="middle" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#18324f">LÉGION ÉTRANGÈRE</text>
+</svg>
