@@ -59,7 +59,7 @@ NEWS_URL_HINTS = (
     "/news/", "/publication/", "/publications/", "/communique", "/information/"
 )
 
-FRESHNESS_DAYS = 90
+FRESHNESS_DAYS = 365
 
 # Certaines pages sont utiles comme documentation mais ne sont pas des actualités.
 DOCUMENTATION_URL_TERMS = [
