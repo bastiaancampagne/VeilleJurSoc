@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:30:30.905615+00:00",
+  "generated_at": "2026-09-08T18:39:33.616259+00:00",
   "items": [
     {
       "title": "Le nouveau numéro des Cahiers de la Retraite Complémentaire est paru",
@@ -56,6 +56,18 @@
       "publishedAt": "2026-09-08T04:00:00+00:00",
       "discoveredAt": "2026-09-08T04:31:14.414782+00:00",
       "topics": []
+    },
+    {
+      "title": "Brève 8 sept. Le Ministère du travail a mis à jour son guide de 2019 relatif à la rupture du contrat de travail des salariés protégés",
+      "url": "https://www.legisocial.fr/la-matinale/2026-09-08.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La matinale, c'est chaque matin directement dans votre boite email, les dernières informations Social, RH & Paie !",
+      "publishedAt": "2026-09-07T22:00:00+00:00",
+      "discoveredAt": "2026-09-08T18:39:18.436311+00:00",
+      "topics": [
+        "Rémunération"
+      ]
     },
     {
       "title": "7 septembre 14h27 Incendies en Aquitaine, dans le Var et en Corse : l’URSSAF détaille les possibilités de délais de paiement et d’exonération de cotisations Paye Autres sources",
@@ -403,6 +415,46 @@
       ]
     },
     {
+      "title": "Cotisations et exonérations",
+      "url": "https://www.legisocial.fr/paie-remuneration/cotisations-exonerations-allegements/",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Retrouvez les règles applicables aux cotisations sociales, aux exonérations et aux dispositifs d’allègements, ainsi que leurs impacts sur la paie.",
+      "publishedAt": "2026-08-06T04:00:00+00:00",
+      "discoveredAt": "2026-09-08T18:39:10.675920+00:00",
+      "topics": [
+        "Cotisations",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Réductions cotisations - Aides à l'embauche",
+      "url": "https://www.legisocial.fr/reperes-sociaux/",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tous les chiffres et taux sociaux pour la paie et les RH : SMIC, plafond de la sécurité sociale, cotisations Urssaf, barèmes et indemnités. Mis à jour en continu.",
+      "publishedAt": "2026-08-05T09:19:37+00:00",
+      "discoveredAt": "2026-09-08T18:39:28.114767+00:00",
+      "topics": [
+        "SMIC",
+        "PMSS",
+        "Cotisations",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Organisation de la paie",
+      "url": "https://www.legisocial.fr/paie-remuneration/organisation-paie-cas-particuliers/",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Apprenez à structurer la paie, à gérer les bulletins et déclarations, et à traiter les cas particuliers (heures supplémentaires, absences) pour garantir conformité.",
+      "publishedAt": "2026-08-04T04:00:00+00:00",
+      "discoveredAt": "2026-09-08T18:39:12.263648+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
       "title": "Ma retraite en… 1 minute max’ : des réponses rapides à vos questions retraite",
       "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/ma-retraite-en-1-minute-max-des-reponses-rapides-a-vos-questions-retraite/",
       "source": "Agirc-Arrco",
@@ -415,6 +467,32 @@
       ]
     },
     {
+      "title": "Prélèvement à la source",
+      "url": "https://www.legisocial.fr/paie-remuneration/prelevement-source-fiscalite-paie/",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Découvrez les obligations, les modalités de calcul et les échéances du prélèvement à la source ainsi que son impact sur la fiscalité de la paie.",
+      "publishedAt": "2026-07-07T04:00:00+00:00",
+      "discoveredAt": "2026-09-08T18:39:13.904078+00:00",
+      "topics": [
+        "Rémunération",
+        "PAS"
+      ]
+    },
+    {
+      "title": "Rupture conventionnelle",
+      "url": "https://www.legisocial.fr/rupture-contrat/rupture-conventionnelle/",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Découvrez les étapes clés de la rupture conventionnelle, les conditions d’éligibilité, les formalités à accomplir et les impacts sur la paie.",
+      "publishedAt": "2026-07-01T04:00:00+00:00",
+      "discoveredAt": "2026-09-08T18:39:16.971951+00:00",
+      "topics": [
+        "Rupture",
+        "Rémunération"
+      ]
+    },
+    {
       "title": "DSN de substitution, ce qu’il faut retenir",
       "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/dsn-de-substitution-ce-quil-faut-retenir/",
       "source": "Agirc-Arrco",
@@ -424,6 +502,18 @@
       "discoveredAt": "2026-09-06T14:30:54.793458+00:00",
       "topics": [
         "DSN"
+      ]
+    },
+    {
+      "title": "Bulletin de paie & salaire",
+      "url": "https://www.legisocial.fr/paie-remuneration/bulletin-paie-salaire/",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Retrouvez les obligations légales du bulletin de paie, les mentions obligatoires, les règles de calcul du salaire et les bonnes pratiques pour assurer conformité.",
+      "publishedAt": "2026-06-04T04:00:00+00:00",
+      "discoveredAt": "2026-09-08T18:39:06.680202+00:00",
+      "topics": [
+        "Rémunération"
       ]
     },
     {
