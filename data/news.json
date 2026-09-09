@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:34:42.232885+00:00",
+  "generated_at": "2026-09-09T19:30:09.768259+00:00",
   "items": [
     {
       "title": "Projet de licenciement par messagerie et licenciement verbal",
@@ -630,6 +630,10 @@
     {
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Légisocial",
+      "error": "<urlopen error timed out>"
     }
   ]
 }
