@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:31:06.469941+00:00",
+  "generated_at": "2026-09-09T02:31:01.378704+00:00",
   "items": [
     {
       "title": "Le nouveau numéro des Cahiers de la Retraite Complémentaire est paru",
@@ -540,6 +540,10 @@
     },
     {
       "source": "URSSAF",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "source": "Service-Public Pro",
       "error": "Remote end closed connection without response"
     },
     {
