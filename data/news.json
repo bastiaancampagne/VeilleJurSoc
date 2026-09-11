@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:28:54.090073+00:00",
+  "generated_at": "2026-09-11T22:28:53.682714+00:00",
   "items": [
     {
       "title": "Preuve des heures supplémentaires : un tableau incluant les temps de trajet peut suffire",
@@ -769,10 +769,6 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
-    },
-    {
-      "source": "Service-Public Pro",
-      "error": "<urlopen error timed out>"
     },
     {
       "source": "Assurance Maladie",
