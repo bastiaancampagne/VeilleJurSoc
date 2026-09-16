@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-16T03:30:56.166568+00:00",
+  "generated_at": "2026-09-16T04:31:32.266914+00:00",
   "items": [
+    {
+      "title": "IA en entreprise : attention, terrain juridique sensible !",
+      "url": "https://www.legisocial.fr/actualites-sociales/8090-ia-entreprise-attention-terrain-juridique-sensible.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’intelligence artificielle n’est plus un gadget : elle s’invite dans le recrutement, la gestion RH, la sécurité informatique, la production, le pilotage stratégique… Mais son déploiement n’est jamais neutre juridiquement. Il engage la responsabilité de l’employeur, impose une procédure, une transparence et une concertation obligatoire.",
+      "publishedAt": "2026-09-16T04:00:00+00:00",
+      "discoveredAt": "2026-09-16T04:31:23.299636+00:00",
+      "topics": []
+    },
+    {
+      "title": "Transparence salariale : les mesures impactant la paie",
+      "url": "https://www.legisocial.fr/actualites-sociales/8140-transparence-salariale-mesures-impactant-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Communication des rémunérations moyennes par sexe, comparaison des salariés effectuant un travail de valeur égale, accès aux bases de calcul : le projet de loi sur la transparence salariale prévoit plusieurs obligations qui concerneraient directement les services paie. Présentation des principales mesures envisagées.",
+      "publishedAt": "2026-09-16T04:00:00+00:00",
+      "discoveredAt": "2026-09-16T04:31:23.299825+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
     {
       "title": "Prélèvement à la source des cotisations sociales par les plateformes : quel calendrier ?",
       "url": "https://entreprendre.service-public.gouv.fr/actualites/A18550",
@@ -928,10 +950,6 @@
     },
     {
       "source": "URSSAF",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "source": "Service-Public Pro",
       "error": "Remote end closed connection without response"
     },
     {
