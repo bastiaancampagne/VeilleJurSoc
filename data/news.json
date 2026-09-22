@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:38.949877+00:00",
+  "generated_at": "2026-09-22T08:32:42.905634+00:00",
   "items": [
     {
       "title": "Les mesures RH de la loi de programmation militaire",
@@ -25,6 +25,19 @@
       ]
     },
     {
+      "title": "21 septembre 21h11 Arrêt maladie et indemnité compensatrice de congés payés : la Cour de cassation rend son verdict sur l’application des règles de prescription Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/arret-maladie-et-indemnite-compensatrice-de-conges-payes-la-cour-de-cassation-rend-son-verdict-sur-l-application-des-regles-de-prescription-13881b82-941c-8401-9454-b0b7aa0a2887",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "On s’en souvient, la loi d'adaptation au droit de l'Union européenne (DDADUE) du 22 avril 2024 a mis le code du travail en conformité",
+      "publishedAt": "2026-09-21T19:11:25+00:00",
+      "discoveredAt": "2026-09-22T08:32:40.490530+00:00",
+      "topics": [
+        "IJSS",
+        "Congés"
+      ]
+    },
+    {
       "title": "Salariée enceinte : quels sont ses droits ?",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/salariee-enceinte-quels-sont-ses-droits",
       "source": "Éditions Tissot",
@@ -42,6 +55,18 @@
       "summary": "Deux décrets du 16 septembre 2026 (publiés le 18) réduisent de trois ans à un an la durée maximale d’indemnisation des arrêts de",
       "publishedAt": "2026-09-21T07:56:03+00:00",
       "discoveredAt": "2026-09-21T12:33:24.389812+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "title": "21 septembre 09h56 Arrêts maladie : un an maximum d'IJSS pour les « ALD non exonérantes » à partir du 15 octobre 2026 Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/arrets-maladie-un-an-maximum-d-ijss-pour-les-ald-non-exonerantes-a-partir-du-15-octobre-2026-1b409b02-9409-8485-9201-0b6a8224612d",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Deux décrets du 16 septembre 2026 (publiés le 18) réduisent de trois ans à un an la durée maximale d’indemnisation des arrêts de",
+      "publishedAt": "2026-09-21T07:56:03+00:00",
+      "discoveredAt": "2026-09-22T08:32:42.178144+00:00",
       "topics": [
         "IJSS"
       ]
@@ -1181,6 +1206,10 @@
     {
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Légisocial",
+      "error": "<urlopen error timed out>"
     }
   ]
 }
