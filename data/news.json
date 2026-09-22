@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:32:42.905634+00:00",
+  "generated_at": "2026-09-22T09:29:42.696714+00:00",
   "items": [
     {
       "title": "Les mesures RH de la loi de programmation militaire",
@@ -1206,10 +1206,6 @@
     {
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Légisocial",
-      "error": "<urlopen error timed out>"
     }
   ]
 }
