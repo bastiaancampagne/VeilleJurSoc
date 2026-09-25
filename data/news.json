@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-25T13:30:57.061325+00:00",
+  "generated_at": "2026-09-25T14:32:39.295993+00:00",
   "items": [
+    {
+      "title": "25 septembre 15h31 CSSCT : l’employeur peut-il être tenu d’organiser une réunion extraordinaire ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/cssct-l-employeur-peut-il-etre-tenu-d-organiser-une-reunion-extraordinaire",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation répond à cette question dans un arrêt du 23 septembre 2026 et fixe ses conditions. L’employeur est tenu",
+      "publishedAt": "2026-09-25T13:31:33+00:00",
+      "discoveredAt": "2026-09-25T14:32:35.931895+00:00",
+      "topics": []
+    },
     {
       "title": "25 septembre 12h42 Contrôle URSSAF : l’avis de contrôle doit mentionner les moyens d'accéder à la Charte du cotisant contrôlé, un lien direct n’est pas exigé Paye Jurisprudence",
       "url": "https://www.revue-fiduciaire.com/actualite/article/controle-urssaf-l-avis-de-controle-doit-mentionner-les-moyens-d-acceder-a-la-charte-du-cotisant-controle-un-lien-direct-n-est-pas-exige",
@@ -1453,7 +1463,7 @@
   "errors": [
     {
       "source": "BOSS",
-      "error": "Remote end closed connection without response"
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "Légifrance",
