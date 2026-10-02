@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:34:24.896593+00:00",
+  "generated_at": "2026-10-02T10:32:43.330791+00:00",
   "items": [
     {
       "title": "Prime de partage de la valeur (PPV) : les règles d’exonération changent le 1er janvier 2027",
@@ -10,6 +10,21 @@
       "publishedAt": "2026-10-02T06:00:00+00:00",
       "discoveredAt": "2026-10-02T06:38:50.345660+00:00",
       "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Rappel de salaire : du calcul au bulletin, sans créer une nouvelle erreur",
+      "url": "https://www.legisocial.fr/paie-remuneration/bulletin-paie-salaire/rappels-salaire-principes-traitement-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Vous avez oublié d’intégrer des éléments de rémunération sur le bulletin de salaire : heures supplémentaires, prime, augmentation rétroactive ou encore application tardive d’une disposition conventionnelle. Une régularisation doit alors être effectuée afin de verser au salarié les sommes qui lui sont dues. Mais comment traiter ce rappel de salaire en paie ? Quelles sont les règles applicables en matière de cotisations sociales, du plafond de la sécurité sociale et de la déclaration à la DSN ?",
+      "publishedAt": "2026-10-02T06:00:00+00:00",
+      "discoveredAt": "2026-10-02T10:32:41.071525+00:00",
+      "topics": [
+        "DSN",
+        "PMSS",
+        "Cotisations",
         "Rémunération"
       ]
     },
