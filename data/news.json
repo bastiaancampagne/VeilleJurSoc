@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-10-05T09:09:25.905047+00:00",
+  "generated_at": "2026-10-05T18:32:57.728494+00:00",
   "items": [
+    {
+      "title": "5 octobre 12h14 Licenciement économique : le seul refus du salarié du poste proposé vaut-il à lui seul respect de l’obligation de reclassement ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-economique-le-seul-refus-du-salarie-du-poste-propose-vaut-il-a-lui-seul-respect-de-l-obligation-de-reclassement-104a0892-0000-86a1-b094-8524e2f927d8",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Il ne suffit pas que l'employeur ait proposé à une salariée menacée de licenciement économique un poste de reclassement pour",
+      "publishedAt": "2026-10-05T10:14:49+00:00",
+      "discoveredAt": "2026-10-05T18:32:53.477102+00:00",
+      "topics": [
+        "Rupture"
+      ]
+    },
+    {
+      "title": "5 octobre 10h30 Indemnités de rupture : le PLFSS 2027 prévoit une seule limite d'exonération égale à une fois le plafond de la sécurité sociale Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/indemnites-de-rupture-le-plfss-2027-prevoit-une-seule-limite-d-exoneration-egale-a-une-fois-le-plafond-de-la-securite-sociale-198a1a80-1000-86a1-94d5-f9de3202da0f",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comme le projet de loi de finances (PLF), le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit de fixer une",
+      "publishedAt": "2026-10-05T08:30:00+00:00",
+      "discoveredAt": "2026-10-05T18:32:55.213680+00:00",
+      "topics": [
+        "PMSS"
+      ]
+    },
+    {
+      "title": "5 octobre 10h15 PLFSS 2027 : des mesures en paye pour les employeurs touchés par les incendies de l'été 2026 et le cyclone Chido à Mayotte Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-des-mesures-en-paye-pour-les-employeurs-touches-par-les-incendies-de-l-ete-2026-et-le-cyclone-chido-a-mayotte-14889880-80a0-86a0-9081-c1cc770f4d87",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Présenté en conseil des ministres le 1er octobre 2026, le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 comprend",
+      "publishedAt": "2026-10-05T08:15:00+00:00",
+      "discoveredAt": "2026-10-05T18:32:57.021512+00:00",
+      "topics": []
+    },
     {
       "title": "Mon collaborateur peut-il cumuler deux activités salariées ?",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/mon-collaborateur-peut-il-cumuler-deux-activites-salariees",
@@ -128,18 +162,6 @@
       "discoveredAt": "2026-10-02T14:35:38.759904+00:00",
       "topics": [
         "Rupture"
-      ]
-    },
-    {
-      "title": "Prime de partage de la valeur (PPV) : les règles d’exonération changent le 1er janvier 2027",
-      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/prime-de-partage-de-la-valeur-ppv-les-regles-dexoneration-changent-le-1er-janvier-2027",
-      "source": "Éditions Tissot",
-      "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": "2026-10-02T06:00:00+00:00",
-      "discoveredAt": "2026-10-02T06:38:50.345660+00:00",
-      "topics": [
-        "Rémunération"
       ]
     },
     {
@@ -565,6 +587,42 @@
       "discoveredAt": "2026-10-02T19:33:07.157785+00:00",
       "topics": [
         "DSN",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Corriger une DSN après l’échéance : le bloc de régularisation",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/corriger-dsn-echeance-bloc-regularisation.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Après l’échéance, une DSN ne peut plus être corrigée au moyen de la procédure « annule et remplace ». L’erreur doit être régularisée dans une DSN ultérieure à l’aide de blocs rattachés à la période d’origine.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-05T18:32:49.761489+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Corriger une DSN avant l’échéance : la procédure « annule et remplace »",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/corriger-dsn-echeance-procedure-annule-remplace.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’une erreur est détectée avant l’échéance, la procédure « annule et remplace » permet de substituer une DSN corrigée à la déclaration initiale. Les délais et les conditions techniques diffèrent selon qu’elle concerne une DSN mensuelle ou un signalement d’événement.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-05T18:32:49.762093+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Prime de partage de la valeur (PPV) : le régime de faveur serait maintenu en 2027",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/prime-de-partage-de-la-valeur-ppv-les-regles-dexoneration-changent-le-1er-janvier-2027",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-01T13:30:00+00:00",
+      "discoveredAt": "2026-10-02T06:38:50.345660+00:00",
+      "topics": [
         "Rémunération"
       ]
     },
@@ -2527,7 +2585,7 @@
     },
     {
       "source": "URSSAF",
-      "error": "Remote end closed connection without response"
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "Assurance Maladie",
