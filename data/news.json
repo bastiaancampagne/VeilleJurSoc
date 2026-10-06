@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-06T07:38:01.181635+00:00",
+  "generated_at": "2026-10-06T15:15:55.706906+00:00",
   "items": [
+    {
+      "title": "Communication autour de la mesure du Montant Net Social (MNS) Publié le 06 octobre 2026",
+      "url": "https://www.net-entreprises.fr/communication-autour-de-la-mesure-du-montant-net-social-mns/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "Le Bulletin Officiel de la Sécurité Sociale a modifié le 02/10 la rubrique dédiée au calcul du Montant Net Social (MNS). Les modifications visées s’appliquent…",
+      "publishedAt": "2026-10-06T12:32:04+00:00",
+      "discoveredAt": "2026-10-06T15:15:13.547275+00:00",
+      "topics": [
+        "Net social"
+      ]
+    },
+    {
+      "title": "6 octobre 12h00 Fermeture pour congés payés : quid des salariés n'ayant pas suffisamment de droits à congé ? Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/fermeture-pour-conges-payes-quid-des-salaries-n-ayant-pas-suffisamment-de-droits-a-conge",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Certains employeurs choisissent de fermer l'entreprise pour tout ou partie des congés payés. Or, les salariés n'ont pas tous",
+      "publishedAt": "2026-10-06T10:00:00+00:00",
+      "discoveredAt": "2026-10-06T15:15:52.584188+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "title": "6 octobre 12h00 Tour de vis sur les IJSS accidents du travail et maladies professionnelles Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/tour-de-vis-sur-les-ijss-accidents-du-travail-et-maladies-professionnelles",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un décret divise par trois (un peu plus, en réalité) la limite du salaire de référence servant de base au calcul des indemnités",
+      "publishedAt": "2026-10-06T10:00:00+00:00",
+      "discoveredAt": "2026-10-06T15:15:54.801194+00:00",
+      "topics": [
+        "IJSS",
+        "Rémunération"
+      ]
+    },
     {
       "title": "Sécuriser un contrat de travail : les bonnes pratiques à maîtriser",
       "url": "https://www.legisocial.fr/actualites-sociales/8138-securiser-contrat-travail-bonnes-pratiques-maitriser.html",
@@ -33,6 +70,34 @@
       "discoveredAt": "2026-10-06T07:37:57.204395+00:00",
       "topics": [
         "IJSS"
+      ]
+    },
+    {
+      "title": "Absence du salarié et DSN : Comment la déclarer ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/absence-salarie-dsn-comment-declarer.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Maladie, congés payés ou absence non rémunérée : chaque absence produit des effets différents sur la paie et la DSN. Découvrez les règles à respecter pour calculer la retenue, transmettre un signalement d’arrêt de travail et éviter les anomalies déclaratives.",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "discoveredAt": "2026-10-06T15:15:49.462531+00:00",
+      "topics": [
+        "DSN",
+        "Congés",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Embauche d’un salarié et DSN : Quelles obligations déclaratives ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/embauche-salarie-dsn-quelles-obligations-declaratives.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’embauche d’un salarié nécessite d’accomplir plusieurs formalités et de recueillir des informations fiables avant son entrée dans l’entreprise. DPAE, contrat de travail, création du dossier de paie, données individuelles, prélèvement à la source : découvrez les points à vérifier pour sécuriser la première paie et la déclaration du salarié en DSN.",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "discoveredAt": "2026-10-06T15:15:49.462744+00:00",
+      "topics": [
+        "DSN",
+        "Rémunération",
+        "PAS"
       ]
     },
     {
