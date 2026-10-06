@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:32:57.728494+00:00",
+  "generated_at": "2026-10-06T00:54:22.127956+00:00",
   "items": [
     {
       "title": "5 octobre 12h14 Licenciement économique : le seul refus du salarié du poste proposé vaut-il à lui seul respect de l’obligation de reclassement ? Social Jurisprudence",
@@ -2586,6 +2586,10 @@
     {
       "source": "URSSAF",
       "error": "<urlopen error timed out>"
+    },
+    {
+      "source": "Service-Public Pro",
+      "error": "Remote end closed connection without response"
     },
     {
       "source": "Assurance Maladie",
