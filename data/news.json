@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-10-06T00:54:22.127956+00:00",
+  "generated_at": "2026-10-06T07:38:01.181635+00:00",
   "items": [
+    {
+      "title": "Sécuriser un contrat de travail : les bonnes pratiques à maîtriser",
+      "url": "https://www.legisocial.fr/actualites-sociales/8138-securiser-contrat-travail-bonnes-pratiques-maitriser.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un contrat de travail, ce n’est pas un simple document administratif : c’est la colonne vertébrale de la relation employeur-salarié. Voici les points essentiels pour sécuriser vos pratiques.",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "discoveredAt": "2026-10-06T07:37:57.203930+00:00",
+      "topics": []
+    },
+    {
+      "title": "DSN 2027 : les tables de référence de la norme P27V01 sont disponibles",
+      "url": "https://www.legisocial.fr/actualites-sociales/8162-dsn-2027-tables-reference-norme-p27v01-sont-disponibles.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les référentiels DSN P27V01 sont accessibles sur Net-entreprises depuis le 24 septembre 2026. Téléchargement des tables, identification des rubriques concernées et abonnement aux actualisations : le point sur les ressources proposées aux déclarants.",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "discoveredAt": "2026-10-06T07:37:57.204208+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Salarié en arrêt maladie depuis plusieurs semaines ou mois : que faire… et surtout ne pas faire ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8137-salarie-arret-maladie-plusieurs-semaines-mois-surtout-ne.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Entre obligations légales, prévention des risques et préparation du retour, chaque étape compte !",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "discoveredAt": "2026-10-06T07:37:57.204395+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
     {
       "title": "5 octobre 12h14 Licenciement économique : le seul refus du salarié du poste proposé vaut-il à lui seul respect de l’obligation de reclassement ? Social Jurisprudence",
       "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-economique-le-seul-refus-du-salarie-du-poste-propose-vaut-il-a-lui-seul-respect-de-l-obligation-de-reclassement-104a0892-0000-86a1-b094-8524e2f927d8",
@@ -2585,10 +2619,6 @@
     },
     {
       "source": "URSSAF",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "Service-Public Pro",
       "error": "Remote end closed connection without response"
     },
     {
