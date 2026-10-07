@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:37:05.434057+00:00",
+  "generated_at": "2026-10-07T20:41:02.527422+00:00",
   "items": [
     {
       "title": "7 octobre 12h15 Prime de partage de la valeur : le PLFSS 2027 prévoit de prolonger d'un an le volet social de l'exonération renforcée Social Paye Projet de texte",
@@ -9,6 +9,18 @@
       "summary": "Les primes de partage de la valeur (PPV) versées par des employeurs de moins de 50 salariés à leurs salariés rémunérés moins de 3",
       "publishedAt": "2026-10-07T10:15:00+00:00",
       "discoveredAt": "2026-10-07T14:37:00.945612+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "7 octobre 12h15 Prime de partage de la valeur : le PLFSS 2027 prévoit de prolonger d'un an le volet social de l'exonération renforcée Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prime-de-partage-de-la-valeur-le-plfss-2027-prevoit-de-prolonger-d-un-an-le-volet-social-de-l-exoneration-renforcee-104a8896-1430-8405-96c4-6624a0f8b48e",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les primes de partage de la valeur (PPV) versées par des employeurs de moins de 50 salariés à leurs salariés rémunérés moins de 3",
+      "publishedAt": "2026-10-07T10:15:00+00:00",
+      "discoveredAt": "2026-10-07T20:40:58.971243+00:00",
       "topics": [
         "Rémunération"
       ]
@@ -141,6 +153,19 @@
       "topics": [
         "DSN",
         "Rémunération"
+      ]
+    },
+    {
+      "title": "Déclarer les données du contrat en DSN",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/declarer-donnees-contrat-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le bloc « Contrat - S21.G00.40 » constitue l'un des blocs les plus importants de la DSN. Il décrit l'ensemble des caractéristiques du contrat de travail et sert de base au calcul des cotisations, des droits sociaux et des différents traitements réalisés par les organismes destinataires. Cette fiche détaille les rubriques du bloc Contrat, les modalités de déclaration des changements contractuels (bloc S21.G00.41) ainsi que les principales précisions apportées par les fiches-consignes DSN.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T20:40:55.964850+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
       ]
     },
     {
