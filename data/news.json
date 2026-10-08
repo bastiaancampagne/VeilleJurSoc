@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-08T07:29:34.613824+00:00",
+  "generated_at": "2026-10-08T15:40:55.010594+00:00",
   "items": [
+    {
+      "title": "L’Urssaf propose un formulaire de procuration",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A19082",
+      "source": "Service-Public Pro",
+      "sourceKind": "OFFICIEL",
+      "summary": "Rédiger une procuration permet de donner pouvoir à un mandataire. L’Urssaf met à disposition un formulaire pour encadrer cette représentation.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-08T15:40:13.184361+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "8 octobre 12h27 Arrêts de travail : le PLFSS 2027 veut renforcer la coordination médicale autour du salarié pour limiter la désinsertion professionnelle Social Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/arrets-de-travail-le-plfss-2027-veut-renforcer-la-coordination-medicale-autour-du-salarie-pour-limiter-la-desinsertion-professionnelle",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Afin de mieux prévenir la désinsertion professionnelle des salariés, dans un contexte de vieillissement de la population active, le",
+      "publishedAt": "2026-10-08T10:27:26+00:00",
+      "discoveredAt": "2026-10-08T15:40:49.767806+00:00",
+      "topics": []
+    },
+    {
+      "title": "Le non respect des préconisations du médecin du travail et ses conséquences<",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1694-respect-preconisations-medecin-travail-consequences.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le seul manquement de l’employeur aux préconisations d’aménagement du médecin du travail ouvre droit à réparation, sans que le salarié ait à démontrer son préjudice.",
+      "publishedAt": "2026-10-08T10:00:00+00:00",
+      "discoveredAt": "2026-10-08T15:40:46.618047+00:00",
+      "topics": []
+    },
+    {
+      "title": "8 octobre 10h42 PLFSS 2027 : le « malus seniors » sur les cotisations patronales d’assurance vieillesse serait abandonné, sans avoir vu le jour Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-le-malus-seniors-sur-les-cotisations-patronales-d-assurance-vieillesse-serait-abandonne-sans-avoir-vu-le-jour-12c20884-94b5-8624-9691-bc9725ac0773",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit d’abroger le dispositif du « malus seniors » sur les",
+      "publishedAt": "2026-10-08T08:42:03+00:00",
+      "discoveredAt": "2026-10-08T15:40:52.019537+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "Plafond de la Sécurité sociale 2027 : une revalorisation préconisée de 1,7 %",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/plafond-de-la-securite-sociale",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-08T08:00:00+00:00",
+      "discoveredAt": "2026-10-08T15:40:54.996373+00:00",
+      "topics": [
+        "PMSS"
+      ]
+    },
+    {
+      "title": "8 octobre 09h45 Arrêts de travail : les partenaires sociaux invités à négocier une « réforme structurelle » pour la fin 2026 Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/arrets-de-travail-les-partenaires-sociaux-invites-a-negocier-une-reforme-structurelle-pour-la-fin-2026-13c01894-9405-86a4-b0c1-d17239603cca",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comme annoncé lors de la présentation du projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, le ministère du Travail",
+      "publishedAt": "2026-10-08T07:45:00+00:00",
+      "discoveredAt": "2026-10-08T15:40:53.884004+00:00",
+      "topics": []
+    },
     {
       "title": "8 octobre 09h00 Le dispositif de monétisation des jours de RTT pourrait être pérennisé par le PLFSS 2027 Social Paye Projet de texte",
       "url": "https://www.revue-fiduciaire.com/actualite/article/le-dispositif-de-monetisation-des-jours-de-rtt-pourrait-etre-perennise-par-le-plfss-2027",
@@ -43,6 +109,19 @@
       "publishedAt": "2026-10-08T04:00:00+00:00",
       "discoveredAt": "2026-10-08T07:29:08.588136+00:00",
       "topics": []
+    },
+    {
+      "title": "Signaler un arrêt de travail en DSN",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/signaler-arret-travail-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’un salarié est en arrêt de travail, l’employeur doit effectuer un signalement en DSN afin de permettre le calcul et le versement des indemnités journalières. Cette fiche présente les délais à respecter ainsi que les modalités de déclaration de l’arrêt, de la subrogation et de la reprise dans le bloc S21.G00.60.",
+      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "discoveredAt": "2026-10-08T15:40:46.618313+00:00",
+      "topics": [
+        "DSN",
+        "IJSS"
+      ]
     },
     {
       "title": "7 octobre 12h15 Prime de partage de la valeur : le PLFSS 2027 prévoit de prolonger d'un an le volet social de l'exonération renforcée Social Paye Projet de texte",
