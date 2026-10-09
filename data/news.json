@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-10-09T02:14:32.048817+00:00",
+  "generated_at": "2026-10-09T09:09:50.147696+00:00",
   "items": [
+    {
+      "title": "Les travailleurs indépendants ne peuvent pas payer l’Urssaf par carte bancaire au-delà de 1 000 euros",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A19090",
+      "source": "Service-Public Pro",
+      "sourceKind": "OFFICIEL",
+      "summary": "Le règlement de cotisations sociales ou d’une dette par carte bancaire est limité aux montants inférieurs à 1 000 €.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-09T09:09:09.257704+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "9 octobre 09h00 Le PLFSS 2027 réécrit l’article sur l’assujettissement au forfait social sans changement majeur sur le fond Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-plfss-2027-reecrit-l-article-sur-l-assujettissement-au-forfait-social-sans-changement-majeur-sur-le-fond",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 propose une réécriture de l’article du code de la sécurité",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:09:45.365370+00:00",
+      "topics": []
+    },
+    {
+      "title": "Reclassement : l’obligation que les employeurs sous‑estiment encore trop souvent !",
+      "url": "https://www.legisocial.fr/actualites-sociales/8131-reclassement-obligation-employeurs-estiment.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le reclassement n’est pas une formalité. C’est une obligation légale préalable à certains licenciements, strictement contrôlée par les juges. Et les juges rappellent régulièrement que l’employeur doit être actif, loyal et exhaustif dans sa recherche.",
+      "publishedAt": "2026-10-09T04:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:09:42.178585+00:00",
+      "topics": [
+        "Rupture"
+      ]
+    },
+    {
+      "title": "Plafond de la sécurité sociale 2027 : un montant provisoire de 4 075 euros",
+      "url": "https://www.legisocial.fr/actualites-sociales/8171-plafond-securite-sociale-2027-montant-provisoire-4-075-euros.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le rapport provisoire de la CCSS envisage une hausse de 1,7 % du plafond de la sécurité sociale en 2027. Celui-ci pourrait atteindre 4 075 € par mois, sous réserve de sa confirmation par arrêté.",
+      "publishedAt": "2026-10-09T04:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:09:42.178756+00:00",
+      "topics": [
+        "PMSS"
+      ]
+    },
+    {
+      "title": "Intéressement et participation : optimisez votre politique de rémunération collective tout en respectant vos obligations",
+      "url": "https://www.legisocial.fr/actualites-sociales/8117-interessement-participation-optimisez-politique-remuneration-collective-respectant-obligations.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comment faire de l'épargne salariale un levier d'optimisation de votre politique de rémunération ?",
+      "publishedAt": "2026-10-09T04:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:09:42.178940+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Salarié protégé : le transfert tripartite nécessite une autorisation préalable",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1695-salarie-protege-transfert-tripartite-necessite-autorisation-prealable.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 7 octobre 2026, la Cour de cassation rappelle que le transfert d’un salarié protégé par convention tripartite nécessite l’autorisation préalable de l’inspection du travail. L’accord du salarié ne dispense pas l’employeur de cette démarche. Pour les services RH et paie, une mobilité entre sociétés d’un même groupe doit donc être sécurisée avant le changement d’employeur.",
+      "publishedAt": "2026-10-09T04:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:09:42.179105+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
     {
       "title": "L’Urssaf propose un formulaire de procuration",
       "url": "https://entreprendre.service-public.gouv.fr/actualites/A19082",
@@ -41,6 +111,18 @@
       "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit d’abroger le dispositif du « malus seniors » sur les",
       "publishedAt": "2026-10-08T08:42:03+00:00",
       "discoveredAt": "2026-10-08T15:40:52.019537+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "8 octobre 10h42 PLFSS 2027 : le « malus seniors » sur les cotisations patronales d’assurance vieillesse serait abandonné, sans avoir vu le jour Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-le-malus-seniors-sur-les-cotisations-patronales-d-assurance-vieillesse-serait-abandonne-sans-avoir-vu-le-jour-180a9886-1090-86a4-9495-8bb52b2a6dbc",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit d’abroger le dispositif du « malus seniors » sur les",
+      "publishedAt": "2026-10-08T08:42:03+00:00",
+      "discoveredAt": "2026-10-09T09:09:49.394509+00:00",
       "topics": [
         "Cotisations"
       ]
