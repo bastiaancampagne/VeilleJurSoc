@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:59:53.153701+00:00",
+  "generated_at": "2026-10-13T00:45:23.955419+00:00",
   "items": [
     {
       "title": "Versement trimestriel de la taxe sur les salaires : prochaine échéance au 15 octobre",
@@ -10,6 +10,20 @@
       "publishedAt": null,
       "discoveredAt": "2026-10-12T17:59:04.727959+00:00",
       "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Congés payés acquis pendant un arrêt maladie et point de départ de la prescription triennale",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1696-conges-payes-acquis-arret-maladie-point-depart-prescription-triennale.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le délai de prescription triennale pour l’action en paiement d’une indemnité compensatrice de congés payés court à compter de la rupture du contrat, et non de l’établissement du solde de tout compte.",
+      "publishedAt": "2026-10-12T10:00:00+00:00",
+      "discoveredAt": "2026-10-13T00:45:16.100608+00:00",
+      "topics": [
+        "IJSS",
+        "Congés",
         "Rémunération"
       ]
     },
