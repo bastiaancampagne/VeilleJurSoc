@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-13T07:46:34.522646+00:00",
+  "generated_at": "2026-10-13T16:03:38.037018+00:00",
   "items": [
+    {
+      "title": "13 octobre 12h00 L'employeur peut examiner le bien-fondé d'une demande de réunion extraordinaire de la CSSCT Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-employeur-peut-examiner-le-bien-fonde-d-une-demande-de-reunion-extraordinaire-de-la-cssct",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un employeur avait refusé d'organiser une réunion extraordinaire de la commission santé, sécurité et conditions de travail (CSSCT) du",
+      "publishedAt": "2026-10-13T10:00:00+00:00",
+      "discoveredAt": "2026-10-13T16:03:31.702194+00:00",
+      "topics": []
+    },
+    {
+      "title": "13 octobre 12h00 Élection du CSE et vote électronique : l'employeur doit fournir le matériel nécessaire pendant toute la durée du scrutin Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/election-du-cse-et-vote-electronique-l-employeur-doit-fournir-le-materiel-necessaire-pendant-toute-la-duree-du-scrutin-7f744bb8-670c-412d-95b9-c5cecfa2ca08",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’employeur qui recourt au vote électronique pour l’élection du CSE doit s’assurer que tous les salariés puissent participer au",
+      "publishedAt": "2026-10-13T10:00:00+00:00",
+      "discoveredAt": "2026-10-13T16:03:33.882093+00:00",
+      "topics": []
+    },
+    {
+      "title": "13 octobre 12h00 Quand la rupture conventionnelle apparaît comme la seule échappatoire au harcèlement Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/quand-la-rupture-conventionnelle-apparait-comme-la-seule-echappatoire-au-harcelement",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un salarié ne peut pas avoir valablement conclu une rupture conventionnelle si, au jour de la signature, il pensait n'avoir pas d'autre",
+      "publishedAt": "2026-10-13T10:00:00+00:00",
+      "discoveredAt": "2026-10-13T16:03:36.345587+00:00",
+      "topics": [
+        "Rupture"
+      ]
+    },
+    {
+      "title": "Experts-comptables : revalorisation des salaires minimaux au plus tôt le 1er janvier 2027",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/experts-comptables-revalorisation-des-salaires-minimaux-au-plus-tot-le-1er-janvier-2027",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-13T08:05:00+00:00",
+      "discoveredAt": "2026-10-13T16:03:38.007146+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "La rémunération des temps de pause, de douche, d'habillage et de déshabillage sur le bulletin de paie",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/la-remuneration-des-temps-de-pause-de-douche-dhabillage-et-de-deshabillage-sur-le-bulletin-de-paie",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:52:00+00:00",
+      "discoveredAt": "2026-10-13T16:03:38.007284+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
     {
       "title": "Montant net social 2027 : de nouveaux éléments à intégrer",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/montant-net-social-2027-de-nouveaux-elements-a-integrer",
@@ -30,10 +86,23 @@
       "url": "https://www.legisocial.fr/actualites-sociales/8164-controle-urssaf-droits-societe-cotisante.html",
       "source": "Légisocial",
       "sourceKind": "EXPERT PAIE",
-      "summary": "La deuxième chambre civile de la Cour de cassation a rendu 3 arrêts intéressants en matière de contrôle URSSAF le 24 septembre 2026.",
+      "summary": "La deuxième chambre civile de la Cour de cassation a rendu 3 arrêts intéressants en matière de contrôle URSSAF, le 24 septembre 2026.",
       "publishedAt": "2026-10-13T04:00:00+00:00",
       "discoveredAt": "2026-10-13T07:46:29.595377+00:00",
       "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "Quel est le montant du plafond de la sécurité sociale en 2027 ?",
+      "url": "https://www.legisocial.fr/reperes-sociaux/montant-plafond-securite-sociale-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le plafond de la sécurité sociale pourrait atteindre 4 075 € par mois en 2027. Retrouvez les valeurs prévisionnelles du PSS, les multiples du plafond annuel et les limites des tranches de cotisations, dans l’attente de leur confirmation par arrêté.",
+      "publishedAt": "2026-10-13T04:00:00+00:00",
+      "discoveredAt": "2026-10-13T16:03:26.803414+00:00",
+      "topics": [
+        "PMSS",
         "Cotisations"
       ]
     },
