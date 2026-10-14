@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:46:07.882168+00:00",
+  "generated_at": "2026-10-14T23:59:02.016350+00:00",
   "items": [
     {
       "title": "Retraites complémentaires Agirc-Arrco : une revalorisation de +1,4 % au 1er novembre 2026",
@@ -3405,6 +3405,10 @@
     {
       "source": "Ministère du Travail",
       "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Service-Public Pro",
+      "error": "Remote end closed connection without response"
     },
     {
       "source": "Assurance Maladie",
