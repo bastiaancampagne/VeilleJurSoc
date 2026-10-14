@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-14T11:58:15.197411+00:00",
+  "generated_at": "2026-10-14T17:15:33.909840+00:00",
   "items": [
+    {
+      "title": "Retraites complémentaires Agirc-Arrco : une revalorisation de +1,4 % au 1er novembre 2026",
+      "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/retraites-complementaires-agirc-arrco-une-revalorisation-de-14-au-1er-novembre-2026/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "Chaque année, le Conseil d’administration de la fédération Agirc-Arrco décide du niveau de revalorisation des retraites complémentaires des salariés du secteur privé.",
+      "publishedAt": "2026-10-14T16:19:08+00:00",
+      "discoveredAt": "2026-10-14T17:15:23.207094+00:00",
+      "topics": [
+        "Retraite"
+      ]
+    },
     {
       "title": "Projet de réforme des titres restaurant : vers une pérennisation de leur utilisation et de nouveaux droits pour les salariés",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/projet-de-reforme-des-titres-restaurant-vers-une-perennisation-de-leur-utilisation-et-de-nouveaux-droits-pour-les-salaries",
@@ -3389,6 +3401,10 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "source": "Ministère du Travail",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Assurance Maladie",
