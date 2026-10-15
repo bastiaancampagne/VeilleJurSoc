@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-15T04:44:28.114153+00:00",
+  "generated_at": "2026-10-15T09:59:34.465805+00:00",
   "items": [
+    {
+      "title": "Ai-je le droit de fixer un plafond de remboursement pour les frais de restauration de mes salariés ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-de-fixer-un-plafond-de-remboursement-pour-les-frais-de-restauration-de-mes-salaries",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-15T04:35:00+00:00",
+      "discoveredAt": "2026-10-15T09:59:34.442921+00:00",
+      "topics": []
+    },
     {
       "title": "Avantages en nature et gratifications : Quelles consignes DSN pour le PAS ?",
       "url": "https://www.legisocial.fr/actualites-sociales/8188-avantages-nature-gratifications-consignes-dsn.html",
@@ -3413,10 +3423,6 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
-    },
-    {
-      "source": "Ministère du Travail",
-      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Assurance Maladie",
