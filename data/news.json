@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-10-16T07:14:23.254037+00:00",
+  "generated_at": "2026-10-16T12:29:41.084856+00:00",
   "items": [
+    {
+      "title": "Reçu pour solde de tout compte : à défaut de signature, c’est à l’employeur de prouver le paiement des sommes inscrites",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/recu-pour-solde-de-tout-compte-a-defaut-de-signature-cest-a-lemployeur-de-prouver-le-paiement-des-sommes-inscrites",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-16T10:30:00+00:00",
+      "discoveredAt": "2026-10-16T12:29:41.052196+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
     {
       "title": "16 octobre 10h00 Licenciement économique : il est possible de conclure un accord PSE au niveau du groupe Social Jurisprudence",
       "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-economique-il-est-possible-de-conclure-un-accord-pse-au-niveau-du-groupe",
       "source": "RF Paye",
       "sourceKind": "EXPERT PAIE",
       "summary": "Le Conseil d'État considère qu'un accord portant plan de sauvegarde de l'emploi (PSE) peut être conclu au niveau du groupe. Il apporte",
-      "publishedAt": null,
+      "publishedAt": "2026-10-16T08:00:00+00:00",
       "discoveredAt": "2026-10-16T07:14:20.620646+00:00",
       "topics": [
         "Rupture"
@@ -78,6 +90,16 @@
       "summary": "Le médecin du travail peut proposer des mesures d'aménagement du poste de travail au regard de l'état de santé du salarié. Pour un",
       "publishedAt": "2026-10-15T13:00:00+00:00",
       "discoveredAt": "2026-10-15T19:12:54.244857+00:00",
+      "topics": []
+    },
+    {
+      "title": "15 octobre 15h00 Préconisation du médecin du travail : peut-il imposer le type de motorisation du véhicule utilisé par le salarié ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/preconisation-du-medecin-du-travail-peut-il-imposer-le-type-de-motorisation-du-vehicule-utilise-par-le-salarie-7b8f4cf7-7b6a-4bff-8349-907ef8446dc1",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le médecin du travail peut proposer des mesures d'aménagement du poste de travail au regard de l'état de santé du salarié. Pour un",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "discoveredAt": "2026-10-16T12:29:40.024799+00:00",
       "topics": []
     },
     {
