@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-19T07:51:33.127052+00:00",
+  "generated_at": "2026-10-19T15:40:20.498485+00:00",
   "items": [
+    {
+      "title": "Plafond de la Sécurité sociale 2027 : le BOSS annonce les nouveaux montants",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/plafond-de-la-securite-sociale-le-boss-annonce-les-nouveaux-montants",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-19T09:46:00+00:00",
+      "discoveredAt": "2026-10-19T15:40:20.466949+00:00",
+      "topics": [
+        "PMSS",
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "19 octobre 11h11 L'indemnité carburant pour les travailleurs « grands rouleurs » est reconduite et élargie Fiscal Social Paye",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-indemnite-carburant-pour-les-travailleurs-grands-rouleurs-est-reconduite-et-elargie",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Au regard des prix toujours élevés des carburants, le gouvernement avait annoncé fin septembre une prolongation de l'aide carburant pour",
+      "publishedAt": "2026-10-19T09:11:05+00:00",
+      "discoveredAt": "2026-10-19T15:40:16.933437+00:00",
+      "topics": []
+    },
+    {
+      "title": "19 octobre 10h09 Un salarié ne peut pas être inscrit sur une liste de candidat aux élections du CSE sans son accord Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/un-salarie-ne-peut-pas-etre-inscrit-sur-une-liste-de-candidat-aux-elections-du-cse-sans-son-accord",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour être candidat aux élections professionnelles, il faut non seulement remplir les conditions d'éligibilité mais aussi avoir donné",
+      "publishedAt": "2026-10-19T08:09:10+00:00",
+      "discoveredAt": "2026-10-19T15:40:19.532806+00:00",
+      "topics": []
+    },
     {
       "title": "19 octobre 08h45 Le BOSS diffuse le plafond de la sécurité sociale pour 2027 et confirme qu'il sera de 4 075 € par mois Paye BOFIP et Circulaires",
       "url": "https://www.revue-fiduciaire.com/actualite/article/le-boss-diffuse-le-plafond-de-la-securite-sociale-pour-2027-et-confirme-qu-il-sera-de-4-075-par-mois",
@@ -43,6 +76,42 @@
       "publishedAt": "2026-10-19T04:00:00+00:00",
       "discoveredAt": "2026-10-19T07:51:23.827139+00:00",
       "topics": []
+    },
+    {
+      "title": "Comment déclarer l’exonération LODEOM en DSN ?",
+      "url": "https://www.legisocial.fr/paie/reductions-de-cotisations-sociales/comment-declarer-exoneration-lodeom-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La déclaration de l’exonération LODEOM varie selon le barème, le territoire et l’organisme concerné. Retrouvez les CTP, les rubriques DSN et les modalités de régularisation.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T15:40:13.732204+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Comment déclarer en DSN l’exonération France ruralités revitalisation (ZFRR)",
+      "url": "https://www.legisocial.fr/paie/reductions-de-cotisations-sociales/comment-declarer-dsn-exoneration-france-ruralites-revitalisation-zfrr.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comment déclarer l’exonération ZFRR en DSN ? CTP 099, code individuel 916, bases assujetties, signes des montants et correction des erreurs déclaratives.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T15:40:13.732356+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Comment déclarer en DSN l’exonération aide à domicile ?",
+      "url": "https://www.legisocial.fr/paie/reductions-de-cotisations-sociales/comment-declarer-dsn-exoneration-aide-domicile.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’exonération aide à domicile nécessite une déclaration des heures éligibles, de l’assiette et du montant exonéré. Retrouvez les rubriques DSN à renseigner, les CTP à utiliser et les modalités de correction.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T15:40:13.732855+00:00",
+      "topics": [
+        "DSN"
+      ]
     },
     {
       "title": "16 octobre 15h15 La déclaration préalable à l'embauche (DPAE) par signalement DSN de nouveau reportée Paye Autres sources",
@@ -1857,6 +1926,18 @@
       "discoveredAt": "2026-09-30T04:33:18.702199+00:00",
       "topics": [
         "Rémunération"
+      ]
+    },
+    {
+      "title": "fonctionnalités DSN à votre espace connecté",
+      "url": "https://www.net-entreprises.fr/decouvrez-votre-nouvel-espace-connecte-net-entreprises/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "Un nouvel écran d’accueil, un accès centralisé à vos services et un parcours simplifié : à compter de ce 29 septembre, Net-entreprises franchit une nouvelle…",
+      "publishedAt": "2026-09-29T13:27:39+00:00",
+      "discoveredAt": "2026-10-19T15:39:34.341753+00:00",
+      "topics": [
+        "DSN"
       ]
     },
     {
