@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:12:21.464625+00:00",
+  "generated_at": "2026-10-20T20:39:41.212976+00:00",
   "items": [
     {
       "title": "Hôtels, cafés, restaurants : revalorisation des salaires minimaux au 1er novembre 2026",
@@ -58,6 +58,20 @@
       "summary": "Déclarer la rémunération d’un apprenti nécessite de distinguer salaire réel, assiette exonérée et cotisations dues. Retrouvez les rubriques DSN et des exemples chiffrés pour les secteurs privé, agricole et public.",
       "publishedAt": "2026-10-20T04:00:00+00:00",
       "discoveredAt": "2026-10-20T17:12:16.587880+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Comment déclarer la monétisation des jours de repos forfait jours en DSN ?",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/comment-declarer-monetisation-jours-repos-forfait-jours-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La monétisation des jours de repos d’un salarié au forfait jours nécessite plusieurs déclarations en DSN. Retrouvez les blocs à renseigner pour la rémunération, l’exonération fiscale et les réductions de cotisations.",
+      "publishedAt": "2026-10-20T04:00:00+00:00",
+      "discoveredAt": "2026-10-20T20:39:35.675180+00:00",
       "topics": [
         "DSN",
         "Cotisations",
