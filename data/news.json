@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:42:55.098722+00:00",
+  "generated_at": "2026-10-20T17:12:21.464625+00:00",
   "items": [
     {
       "title": "Hôtels, cafés, restaurants : revalorisation des salaires minimaux au 1er novembre 2026",
@@ -14,6 +14,19 @@
       ]
     },
     {
+      "title": "20 octobre 12h31 Indemnité de congés payés : un nouvel exemple de prime de fin d'année à exclure de l'assiette de calcul Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/indemnite-de-conges-payes-un-nouvel-exemple-de-prime-de-fin-d-annee-a-exclure-de-l-assiette-de-calcul",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une affaire jugée le 30 septembre 2026, la Cour de cassation rappelle aux employeurs un des principes de calcul d’une indemnité de",
+      "publishedAt": "2026-10-20T10:31:20+00:00",
+      "discoveredAt": "2026-10-20T17:12:19.874202+00:00",
+      "topics": [
+        "Congés",
+        "Rémunération"
+      ]
+    },
+    {
       "title": "Seul le reçu pour solde de tout compte signé par le salarié fait preuve du paiement des sommes qui y sont mentionnées",
       "url": "https://www.legisocial.fr/actualites-sociales/8172-seul-recu-solde-compte-signe-salarie-preuve-paiement-sont-mentionnees.html",
       "source": "Légisocial",
@@ -22,6 +35,32 @@
       "publishedAt": "2026-10-20T04:00:00+00:00",
       "discoveredAt": "2026-10-20T06:05:23.447118+00:00",
       "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Bien déclarer le temps de travail du salarié en DSN",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/declarer-temps-travail-salarie-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Heures rémunérées, absences et jours du plafond : quelles rubriques renseigner pour bien déclarer le temps de travail du salarié en DSN ? Retrouvez les règles et des exemples.",
+      "publishedAt": "2026-10-20T04:00:00+00:00",
+      "discoveredAt": "2026-10-20T17:12:16.587615+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Comment déclarer un apprenti en DSN ?",
+      "url": "https://www.legisocial.fr/infos-conseils/comment-declarer-apprentis-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Déclarer la rémunération d’un apprenti nécessite de distinguer salaire réel, assiette exonérée et cotisations dues. Retrouvez les rubriques DSN et des exemples chiffrés pour les secteurs privé, agricole et public.",
+      "publishedAt": "2026-10-20T04:00:00+00:00",
+      "discoveredAt": "2026-10-20T17:12:16.587880+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations",
         "Rémunération"
       ]
     },
