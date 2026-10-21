@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-21T15:19:23.980976+00:00",
+  "generated_at": "2026-10-21T19:25:38.244385+00:00",
   "items": [
+    {
+      "title": "21 octobre 16h15 Prime transport, prime carburant, forfait mobilités durables : les limites sociales d'exonération sont temporairement relevées à 1 000 € Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prime-transport-prime-carburant-forfait-mobilites-durables-les-limites-sociales-d-exoneration-sont-temporairement-relevees-a-1-000",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Deux décrets publiés au Journal officiel (JO) du 21 octobre 2026 tirent les conséquences du déclassement du niveau légal au niveau",
+      "publishedAt": "2026-10-21T14:15:00+00:00",
+      "discoveredAt": "2026-10-21T19:25:34.210068+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
     {
       "title": "Espace connecté Net-entreprises : le nouveau tableau de bord DSN est disponible ! Publié le 21 octobre 2026",
       "url": "https://www.net-entreprises.fr/espace-connecte-net-entreprises-le-nouveau-tableau-de-bord-dsn-est-disponible/",
@@ -3859,12 +3871,16 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "source": "URSSAF",
-      "error": "Remote end closed connection without response"
+      "source": "Ministère du Travail",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Agirc-Arrco",
+      "error": "<urlopen error timed out>"
     }
   ]
 }
