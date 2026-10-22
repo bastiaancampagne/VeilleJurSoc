@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-22T04:53:01.682362+00:00",
+  "generated_at": "2026-10-22T10:15:23.086933+00:00",
   "items": [
+    {
+      "title": "Fractionnement des congés payés : faites le point !",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/fractionnement-des-conges-payes-faites-le-point",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsque les salariés prennent une partie de leur congé principal en dehors de la période qui est fixée par la loi du 1er mai au 31 octobre, ils bénéficient, sous certaines conditions, de jours de fractionnement. N’oubliez pas que dans le domaine des congés payés, vous avez la possibilité de modifier les règles de fractionnement par accord d’entreprise.",
+      "publishedAt": "2026-10-22T07:30:00+00:00",
+      "discoveredAt": "2026-10-22T10:15:23.052899+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
     {
       "title": "Ai-je le droit d’imposer la fin du télétravail à un salarié ?",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-dimposer-la-fin-du-teletravail-a-un-salarie",
@@ -3903,6 +3915,10 @@
     {
       "source": "Légifrance",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "URSSAF",
+      "error": "Remote end closed connection without response"
     },
     {
       "source": "Ministère du Travail",
