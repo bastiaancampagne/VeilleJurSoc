@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-22T10:15:23.086933+00:00",
+  "generated_at": "2026-10-22T15:21:41.356331+00:00",
   "items": [
+    {
+      "title": "22 octobre 14h45 Dégradations et vols liés aux violences des 17 et 18 octobre 2026 : l'URSSAF et le CPSTI en soutien des professionnels impactés Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/degradations-et-vols-lies-aux-violences-des-17-et-18-octobre-2026-l-urssaf-et-le-cpsti-en-soutien-des-professionnels-impactes",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un communiqué de presse commun du 22 octobre 2026, l’URSSAF Caisse nationale et le CPSTI indiquent se mobiliser aux côtés des",
+      "publishedAt": "2026-10-22T12:45:00+00:00",
+      "discoveredAt": "2026-10-22T15:21:35.855766+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
     {
       "title": "Fractionnement des congés payés : faites le point !",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/fractionnement-des-conges-payes-faites-le-point",
@@ -11,6 +23,30 @@
       "discoveredAt": "2026-10-22T10:15:23.052899+00:00",
       "topics": [
         "Congés"
+      ]
+    },
+    {
+      "title": "22 octobre 09h25 Les propositions de l'employeur faites au cours de la négociation obligatoire ne valent pas engagement unilatéral Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/les-propositions-de-l-employeur-faites-au-cours-de-la-negociation-obligatoire-ne-valent-pas-engagement-unilateral",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À la suite de l’échec des négociations sur les salaires, des syndicats soutenaient que les propositions d’augmentation faites par",
+      "publishedAt": "2026-10-22T07:25:46+00:00",
+      "discoveredAt": "2026-10-22T15:21:38.239037+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "22 octobre 09h20 Quand les relations de couple d'un directeur avec deux salariées justifient son licenciement pour trouble objectif Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/quand-les-relations-de-couple-d-un-directeur-avec-deux-salariees-justifient-son-licenciement-pour-trouble-objectif",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Entretenir des relations de couple avec des salariées de l'entreprise relève certes de la vie privée. Mais quand cela provient d'un",
+      "publishedAt": "2026-10-22T07:20:05+00:00",
+      "discoveredAt": "2026-10-22T15:21:40.658487+00:00",
+      "topics": [
+        "Rupture"
       ]
     },
     {
@@ -3919,10 +3955,6 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
-    },
-    {
-      "source": "Ministère du Travail",
-      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Assurance Maladie",
