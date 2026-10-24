@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:38:37.616020+00:00",
+  "generated_at": "2026-10-24T19:33:26.812585+00:00",
   "items": [
     {
       "title": "Bons d'achat et cadeaux du CSE 2027 : 204 euros par an et par salarié",
@@ -4082,6 +4082,10 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "source": "Service-Public Pro",
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "Assurance Maladie",
