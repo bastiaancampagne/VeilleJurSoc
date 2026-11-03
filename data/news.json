@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-11-03T06:52:24.652402+00:00",
+  "generated_at": "2026-11-03T15:12:49.338277+00:00",
   "items": [
+    {
+      "title": "3 novembre 12h06 Licenciement économique : coemploi reconnu entre une filiale et la holding ayant contribué à ses difficultés économiques Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-economique-coemploi-reconnu-entre-une-filiale-et-la-holding-ayant-contribue-a-ses-difficultes-economiques",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 21 octobre 2026, la Cour de cassation rappelle qu'en cas d’« immixtion permanente » de la société mère conduisant",
+      "publishedAt": "2026-11-03T11:06:47+00:00",
+      "discoveredAt": "2026-11-03T15:12:43.738907+00:00",
+      "topics": [
+        "Rupture"
+      ]
+    },
+    {
+      "title": "3 novembre 12h00 L'employeur ne peut pas enregistrer les réunions du CSE afin de contrôler les P-V établis par le secrétaire Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-employeur-ne-peut-pas-enregistrer-les-reunions-du-cse-afin-de-controler-les-p-v-etablis-par-le-secretaire",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation précise que l'enregistrement des réunions du CSE a pour seule finalité d'aider à la rédaction du procès-verbal",
+      "publishedAt": "2026-11-03T11:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:45.997544+00:00",
+      "topics": []
+    },
+    {
+      "title": "3 novembre 12h00 Certaines contributions patronales seront intégrées au Montant net social au 1er janvier 2027 Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/certaines-contributions-patronales-seront-integrees-au-montant-net-social-au-1er-janvier-2027-ff92f384-0ec6-43e2-9881-9dcefe9231e6",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Une mise à jour du BOSS des 2 et 26 octobre 2026 indique que, selon un projet de décret dont les caisses de sécurité sociale ont été",
+      "publishedAt": "2026-11-03T11:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:48.078548+00:00",
+      "topics": [
+        "Cotisations",
+        "Net social"
+      ]
+    },
     {
       "title": "Prime carburant et électrique à 1000 euros : le BOSS confirme son versement sans proratisation",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/prime-carburant-et-electrique-a-1000-euros-le-boss-confirme-son-versement-sans-proratisation",
@@ -46,6 +81,110 @@
       "publishedAt": "2026-11-03T05:00:00+00:00",
       "discoveredAt": "2026-11-03T06:52:19.772066+00:00",
       "topics": []
+    },
+    {
+      "title": "Portabilité des garanties santé et prévoyance : que doit faire l'employeur ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/portabilite-garanties-sante-prevoyance-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un salarié qui quitte l'entreprise et a droit à l'assurance chômage conserve gratuitement sa complémentaire santé et sa prévoyance, pendant 12 mois au plus. Ce maintien, appelé « portabilité », s'applique à toute rupture du contrat de travail, sauf la faute lourde, et vaut aussi pour les ayants droit couverts au jour du départ. Le rôle de l'employeur tient en deux gestes : mentionner la portabilité sur le certificat de travail et informer l'organisme assureur de la fin du contrat.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.496138+00:00",
+      "topics": []
+    },
+    {
+      "title": "Prévoyance des cadres : en quoi consiste l'obligation de cotiser 1,50 % sur la tranche A ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/prevoyance-cadres-consiste-obligation-cotisation-trancheA.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tout employeur entrant dans le champ de l'accord national interprofessionnel (ANI) du 17 novembre 2017 doit verser, pour chacun de ses cadres et assimilés, une cotisation patronale d'au moins 1,50 % de la rémunération limitée au plafond de la sécurité sociale (tranche A). Cette cotisation finance des garanties de prévoyance, en priorité la couverture décès.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.496377+00:00",
+      "topics": [
+        "PMSS",
+        "Cotisations",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Indemnités complémentaires en arrêt de travail : comment les calculer et les traiter en paie ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/indemnites-complementaires-arret-travail-comment-calculer-traiter-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pendant un arrêt maladie, le salarié peut percevoir jusqu'à trois revenus qui s'additionnent : les indemnités journalières de la sécurité sociale (IJSS), l'indemnité complémentaire de l'employeur, ou « maintien de salaire », et les indemnités journalières complémentaires de la prévoyance, quand le maintien de salaire s'arrête. Chacune a ses conditions, son calcul et son régime social. Et plusieurs changements récents modifient le contexte.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.496515+00:00",
+      "topics": [
+        "IJSS",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Anciens salariés : comment conserver la complémentaire santé (article 4 loi Evin) ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/anciens-salaries-comment-conserver-complementaire-sante-article-4-loi-evin.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un ancien salarié retraité, invalide ou privé d'emploi peut conserver, à titre individuel et à ses frais, la complémentaire santé collective dont il bénéficiait dans l'entreprise. L'article 4 de la loi Evin oblige le contrat d'assurance à prévoir ce maintien sans délai de carence, sans questionnaire médical et sans limite de durée. Pour l'employeur, l'enjeu est double : choisir un contrat conforme et informer l'organisme des ruptures et des décès.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.496675+00:00",
+      "topics": []
+    },
+    {
+      "title": "Quel régime social et fiscal appliquer aux contributions patronales de prévoyance et de frais de santé ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/regime-social-fiscal-appliquer-contributions-patronales-prevoyance-frais-sante.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les contributions versées par l'employeur pour financer un régime de prévoyance complémentaire ou de frais de santé sont exclues de l'assiette des cotisations de sécurité sociale, sous conditions et dans une limite annuelle appréciée salarié par salarié. Cette fiche détaille les conditions de l'exclusion d'assiette, le calcul de la limite pour 2026, la méthode de réintégration de la fraction excédentaire, le traitement fiscal et les conséquences d'un contrôle URSSAF.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.496822+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "Cotisations prévoyance et santé : quel traitement en paie ?",
+      "url": "https://www.legisocial.fr/paie/cotisations-sociales/cotisations-prevoyance-sante-traitement-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Complémentaire santé et prévoyance partagent la même limite d'exonération sociale, mais pas les mêmes règles de financement ni de fiscalité. Les 3 différences à retenir portent sur les dispenses d'adhésion, le financement (au moins 50 % pour l'employeur sur les frais de santé, pas de minimum en prévoyance, sauf 1,50 % de la tranche A pour les cadres) et l'impôt (la part patronale de mutuelle est toujours ajoutée au net imposable, celle de prévoyance ne l'est qu'au-delà de la limite fiscale).",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.497086+00:00",
+      "topics": [
+        "Cotisations",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Prévoyance et frais de santé : quelles sont les obligations de l'employeur ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/prevoyance-frais-sante-quelles-sont-obligations-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Depuis le 1er janvier 2016, toute entreprise doit faire bénéficier ses salariés d'une couverture collective à adhésion obligatoire de remboursement des frais de santé, financée pour moitié au moins par l'employeur. La prévoyance en cas de décès, d’incapacité de travail ou d’invalidité ne devient obligatoire que si une convention collective, un accord, une décision unilatérale antérieure ou le statut cadre l'imposent.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.497249+00:00",
+      "topics": []
+    },
+    {
+      "title": "Salariés couverts et cas de dispense au régime de frais de santé et prévoyance",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/salaries-couverts-cas-dispense-regime-frais-sante-prevoyance.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tous les salariés titulaires d'un contrat de travail doivent être affiliés au régime collectif, et aucune condition d'ancienneté ne peut être exigée en frais de santé. L'adhésion est obligatoire : un salarié ne peut y échapper que dans des cas de dispense limitativement énumérés par les textes. La dispense doit résulter d'une demande écrite du salarié, dans les délais et accompagnée des justificatifs requis. À défaut, c'est le caractère obligatoire du régime tout entier qui est fragilisé.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.497413+00:00",
+      "topics": []
+    },
+    {
+      "title": "Les garanties et cotisations sont-elles maintenues en cas de suspension de contrat non indemnisée ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/garanties-cotisations-sont-maintenues-cas-suspension-contrat-indemnisee.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu'un salarié est absent sans aucune indemnisation (congé sans solde, congé parental à temps plein, absence maladie non indemnisée…), l'employeur peut choisir de maintenir les garanties (et donc les cotisations), sans que le caractère collectif du régime soit remis en cause. Dès que l'employeur finance, même en partie, une indemnisation, le maintien de toutes les garanties devient obligatoire pour conserver l'exclusion d'assiette.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T15:12:40.497562+00:00",
+      "topics": [
+        "Cotisations"
+      ]
     },
     {
       "title": "2 novembre 15h00 Prime carburant, prime transport, forfait mobilités durables et limite dérogatoire de 1 000 € : le BOSS remplace son communiqué par un autre Social Paye BOFIP et Circulaires",
