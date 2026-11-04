@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-11-04T09:18:18.412623+00:00",
+  "generated_at": "2026-11-04T17:23:11.240852+00:00",
   "items": [
+    {
+      "title": "DSN – Prélèvements DGFiP Publié le 04 novembre 2026",
+      "url": "https://www.net-entreprises.fr/dsn-prelevements-dgfip/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "En raison d’un incident technique, la DGFIP n’a pas pu accéder à certaines coordonnées bancaires entre le 29/10 et le matin du 03/11. En conséquence…",
+      "publishedAt": "2026-11-04T16:00:42+00:00",
+      "discoveredAt": "2026-11-04T17:22:18.897822+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "4 novembre 16h02 Le salarié objet d’une enquête interne n’a pas accès au dossier lors de l’entretien préalable Social",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-salarie-objet-d-une-enquete-interne-n-a-pas-acces-au-dossier-lors-de-l-entretien-prealable",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le fait qu’une enquête ait été menée à l’insu du salarié soupçonné de harcèlement moral et sexuel et d’avoir refusé lors de",
+      "publishedAt": "2026-11-04T15:02:18+00:00",
+      "discoveredAt": "2026-11-04T17:23:07.617994+00:00",
+      "topics": []
+    },
+    {
+      "title": "4 novembre 10h53 Contrôle URSSAF : l'agent chargé du contrôle est-il en droit d'emporter, sans l'accord de l'employeur, les copies des documents remis ? Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/controle-urssaf-l-agent-charge-du-controle-est-il-en-droit-d-emporter-sans-l-accord-de-l-employeur-les-copies-des-documents-remis-c2ceec84-f2d9-4b2f-8583-e75fac3e1fbc",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 24 septembre 2026, la Cour de cassation a été amenée à se prononcer sur le cas d'une inspectrice de l'URSSAF qui, lors",
+      "publishedAt": "2026-11-04T09:53:22+00:00",
+      "discoveredAt": "2026-11-04T17:23:10.105664+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
     {
       "title": "Contrôle d’alcoolémie au travail : un pouvoir de contrôle strictement encadré par le règlement intérieur",
       "url": "https://www.legisocial.fr/actualites-sociales/8189-controle-alcoolemie-travail-pouvoir-controle-strictement-encadre-reglement-interieur.html",
