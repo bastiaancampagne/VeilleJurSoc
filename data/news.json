@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-11-06T10:59:13.538496+00:00",
+  "generated_at": "2026-11-06T18:01:31.362972+00:00",
   "items": [
+    {
+      "title": "6 novembre 14h15 Modèle de bulletin de paye : que va-t-il se passer au 1er janvier 2027 ? Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/modele-de-bulletin-de-paye-que-va-t-il-se-passer-au-1er-janvier-2027-5d2e24fd-eeb5-4248-b010-3841f2f085e1",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En l'état des textes à l'heure où nous rédigeons ces lignes, la possibilité d'utiliser à titre transitoire le modèle de bulletin de",
+      "publishedAt": "2026-11-06T13:15:00+00:00",
+      "discoveredAt": "2026-11-06T18:01:28.040218+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "6 novembre 14h02 Pour calculer l’indemnité conventionnelle de licenciement, il faut retenir les modalités prévues… par le texte conventionnel Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/pour-calculer-l-indemnite-conventionnelle-de-licenciement-il-faut-retenir-les-modalites-prevues-par-le-texte-conventionnel-d9276804-4f82-4226-9fef-e85771643a28",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une affaire jugée le 21 octobre 2026, la Cour de cassation s’est penchée sur la question de l'inclusion d’une prime de bilan dans",
+      "publishedAt": "2026-11-06T13:02:44+00:00",
+      "discoveredAt": "2026-11-06T18:01:30.352017+00:00",
+      "topics": [
+        "Rupture",
+        "Rémunération"
+      ]
+    },
     {
       "title": "Licenciement injustifié : La perte de chance de percevoir des dividendes peut être indemnisée",
       "url": "https://www.legisocial.fr/jurisprudences-sociales/1702-licenciement-injustifie-perte-chance-percevoir-dividendes-indemnisee.html",
@@ -36,6 +61,45 @@
       "discoveredAt": "2026-11-06T10:59:04.084847+00:00",
       "topics": [
         "DSN"
+      ]
+    },
+    {
+      "title": "Comment déclarer les heures complémentaires en DSN ?",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/comment-declarer-heures-complementaires-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les heures complémentaires sont les heures effectuées par un salarié à temps partiel au-delà de la durée prévue par son contrat. Leur déclaration en DSN nécessite de renseigner le nombre d’heures, leur rémunération ainsi que les réductions sociales et fiscales applicables. Cette fiche détaille les blocs à utiliser pour bien déclarer les heures complémentaires des salariés à temps partiel.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T18:01:24.188656+00:00",
+      "topics": [
+        "DSN",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Monétisation des jours de RTT : Comment la déclarer en DSN ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/monetisation-jours-rtt-comment-declarer-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La monétisation des jours de RTT permet au salarié de renoncer à des jours de repos en contrepartie d’une rémunération majorée. Découvrez les conditions du dispositif, son traitement en paie ainsi que les blocs à renseigner pour déclarer correctement les sommes versées en DSN.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T18:01:24.188979+00:00",
+      "topics": [
+        "DSN",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Comment déclarer un salarié à temps partiel en DSN ?",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/comment-declarer-salarie-temps-partiel-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un salarié à temps partiel travaille selon une durée inférieure à la durée légale ou conventionnelle applicable dans l’entreprise. En DSN, sa durée contractuelle, la quotité de travail de référence et son volume d’activité doivent être déclarés de manière cohérente. Une erreur de paramétrage peut affecter le calcul des cotisations, les contrôles Urssaf et les droits sociaux du salarié.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T18:01:24.189258+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
       ]
     },
     {
@@ -5156,10 +5220,6 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
-    },
-    {
-      "source": "Service-Public Pro",
-      "error": "<urlopen error timed out>"
     },
     {
       "source": "Assurance Maladie",
