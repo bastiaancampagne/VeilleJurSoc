@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-11-06T02:31:19.655957+00:00",
+  "generated_at": "2026-11-06T10:59:13.538496+00:00",
   "items": [
+    {
+      "title": "Licenciement injustifié : La perte de chance de percevoir des dividendes peut être indemnisée",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1702-licenciement-injustifie-perte-chance-percevoir-dividendes-indemnisee.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 14 octobre 2026, la Cour de cassation rappelle qu’un salarié contraint de céder ses parts à la suite d’un licenciement sans cause réelle et sérieuse peut obtenir réparation de la perte de chance de percevoir des dividendes. L’accord du salarié sur la vente et le paiement du prix de cession ne suffisent pas à écarter cette indemnisation.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T10:59:04.084468+00:00",
+      "topics": [
+        "Rupture",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "L’entretien préalable au licenciement : une étape incontournable dont les règles doivent être strictement respectées",
+      "url": "https://www.legisocial.fr/actualites-sociales/8192-entretien-prealable-licenciement-etape-incontournable-regles-doivent-strictement-respectees.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’entretien préalable constitue une garantie essentielle des droits de la défense du salarié.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T10:59:04.084682+00:00",
+      "topics": [
+        "Rupture"
+      ]
+    },
+    {
+      "title": "Congé supplémentaire de naissance : un nouveau formulaire et des précisions pour la DSN",
+      "url": "https://www.legisocial.fr/actualites-sociales/8219-conge-supplementaire-naissance-nouveau-formulaire-precisions-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le formulaire de déclaration du congé supplémentaire de naissance évolue depuis novembre 2026. Net-entreprises précise également les consignes de signalement et la détermination du dernier jour travaillé.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T10:59:04.084847+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
     {
       "title": "5 novembre 14h23 Comment déterminer si le régime de prévoyance créé par décision unilatérale est plus favorable que le régime conventionnel ? Social Paye Jurisprudence",
       "url": "https://www.revue-fiduciaire.com/actualite/article/comment-determiner-si-le-regime-de-prevoyance-cree-par-decision-unilaterale-est-plus-favorable-que-le-regime-conventionnel",
@@ -29,6 +66,16 @@
       "summary": "Lorsque le juge est amené à comparer un régime de prévoyance complémentaire mis en place par décision unilatérale avec celui prévu",
       "publishedAt": "2026-11-05T13:23:07+00:00",
       "discoveredAt": "2026-11-06T02:31:09.253639+00:00",
+      "topics": []
+    },
+    {
+      "title": "5 novembre 14h23 Comment déterminer si le régime de prévoyance créé par décision unilatérale est plus favorable que le régime conventionnel ? Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/comment-determiner-si-le-regime-de-prevoyance-cree-par-decision-unilaterale-est-plus-favorable-que-le-regime-conventionnel-93555d2f-c4ac-48b2-8abc-1065d340b5d9",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsque le juge est amené à comparer un régime de prévoyance complémentaire mis en place par décision unilatérale avec celui prévu",
+      "publishedAt": "2026-11-05T13:23:07+00:00",
+      "discoveredAt": "2026-11-06T10:59:07.082911+00:00",
       "topics": []
     },
     {
@@ -889,6 +936,18 @@
       "discoveredAt": "2026-10-28T08:38:15.838074+00:00",
       "topics": [
         "Rémunération"
+      ]
+    },
+    {
+      "title": "Net-entreprises : nouveau tableau de bord DSN , cliquez ici pour consulter la FAQ !",
+      "url": "https://www.net-entreprises.fr/nouvel-espace-connecte-net-entreprises-les-reponses-aux-questions-les-plus-frequemment-posees/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "Non, il s’agit d’une erreur d’affichage. Afin de disposer d’un affichage correct nous vous invitons à « vider le cache » de votre navigateur dans un premier…",
+      "publishedAt": "2026-10-27T16:31:53+00:00",
+      "discoveredAt": "2026-11-06T10:57:24.324957+00:00",
+      "topics": [
+        "DSN"
       ]
     },
     {
@@ -5097,6 +5156,10 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "source": "Service-Public Pro",
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "Assurance Maladie",
