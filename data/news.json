@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:32:53.237591+00:00",
+  "generated_at": "2026-11-07T20:56:52.000394+00:00",
   "items": [
     {
       "title": "6 novembre 14h15 Modèle de bulletin de paye : que va-t-il se passer au 1er janvier 2027 ? Paye Autres sources",
@@ -5220,10 +5220,6 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
-    },
-    {
-      "source": "Service-Public Pro",
-      "error": "<urlopen error timed out>"
     },
     {
       "source": "Assurance Maladie",
