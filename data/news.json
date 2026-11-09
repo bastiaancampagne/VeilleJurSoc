@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-11-09T06:37:16.853991+00:00",
+  "generated_at": "2026-11-09T17:34:17.395051+00:00",
   "items": [
+    {
+      "title": "9 novembre 12h00 Comment déterminer si le régime de prévoyance créé par décision unilatérale est plus favorable que le régime conventionnel ? Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/comment-determiner-si-le-regime-de-prevoyance-cree-par-decision-unilaterale-est-plus-favorable-que-le-regime-conventionnel-e8a3766d-20c3-486e-9c13-1412f3df93a6",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsque le juge est amené à comparer un régime de prévoyance complémentaire mis en place par décision unilatérale avec celui prévu",
+      "publishedAt": "2026-11-09T11:00:00+00:00",
+      "discoveredAt": "2026-11-09T17:34:11.641928+00:00",
+      "topics": []
+    },
+    {
+      "title": "9 novembre 12h00 L’employeur qui réalise des économies sur une ASC qu’il gère à la place du CSE doit-il les reverser au comité ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-employeur-qui-realise-des-economies-sur-une-asc-qu-il-gere-a-la-place-du-cse-doit-il-les-reverser-au-comite",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation tire les conséquences de la réforme intervenue en 2018 pour déterminer le montant du budget des ASC, qui a notamment",
+      "publishedAt": "2026-11-09T11:00:00+00:00",
+      "discoveredAt": "2026-11-09T17:34:14.277212+00:00",
+      "topics": []
+    },
+    {
+      "title": "9 novembre 12h00 Le salarié inapte qui invoque son handicap au terme du processus de reclassement se ferme la porte de la discrimination Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-salarie-inapte-qui-invoque-son-handicap-au-terme-du-processus-de-reclassement-se-ferme-la-porte-de-la-discrimination",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation estime qu'une salariée licenciée pour inaptitude qui avait indiqué à l'employeur qu'elle avait la qualité de",
+      "publishedAt": "2026-11-09T11:00:00+00:00",
+      "discoveredAt": "2026-11-09T17:34:16.572999+00:00",
+      "topics": []
+    },
     {
       "title": "Relations amoureuses au travail et licenciement : où s'arrête la vie privée du salarié ?",
       "url": "https://www.legisocial.fr/actualites-sociales/8208-relations-amoureuses-travail-licenciement-arrete-vie-privee-salarie.html",
@@ -25,6 +55,33 @@
         "IJSS",
         "Congés",
         "Rémunération"
+      ]
+    },
+    {
+      "title": "Comment déclarer l’activité partielle en DSN ?",
+      "url": "https://www.legisocial.fr/paie/activite-partielle/comment-declarer-activite-partielle-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’activité partielle doit être déclarée dans plusieurs blocs de la DSN afin d’identifier la période de suspension, les heures chômées et l’indemnité versée au salarié. La déclaration doit également tenir compte de ses effets sur les volumes d’activité, les bases assujetties, la CSG-CRDS et le plafond de la Sécurité sociale.",
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "discoveredAt": "2026-11-09T17:34:07.450773+00:00",
+      "topics": [
+        "DSN",
+        "PMSS"
+      ]
+    },
+    {
+      "title": "Comment déclarer la RGDU en DSN ?",
+      "url": "https://www.legisocial.fr/paie/reductions-de-cotisations-sociales/comment-declarer-rgdu-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La réduction générale dégressive unique (RGDU) doit être déclarée chaque mois en DSN, à la maille individuelle et agrégée. Cette fiche présente les blocs à renseigner, la déclaration du Smic retenu et le traitement des régularisations positives ou négatives.",
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "discoveredAt": "2026-11-09T17:34:07.451009+00:00",
+      "topics": [
+        "DSN",
+        "SMIC",
+        "RGDU"
       ]
     },
     {
