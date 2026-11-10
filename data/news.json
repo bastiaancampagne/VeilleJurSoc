@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-10T09:55:33.662054+00:00",
+  "generated_at": "2026-11-10T17:54:25.970265+00:00",
   "items": [
+    {
+      "title": "Le bulletin de paie des salariées en congé de maternité",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/le-bulletin-de-paie-des-salariees-en-conge-de-maternite",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-10T10:54:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:25.941299+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "10 novembre 11h15 Réduction générale dégressive unique (RGDU) : le décret sur les branches « non conformes » au SMIC est sorti Paye Journal officiel LFSS 2026",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/reduction-generale-degressive-unique-rgdu-le-decret-sur-les-branches-non-conformes-au-smic-est-sorti-2b661b01-6df6-4139-8c77-e2d636778494",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour inciter les branches où le salaire minimum conventionnel des salariés sans qualification est inférieur au SMIC à réajuster leurs",
+      "publishedAt": "2026-11-10T10:15:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:22.181936+00:00",
+      "topics": [
+        "SMIC",
+        "RGDU",
+        "Rémunération"
+      ]
+    },
     {
       "title": "Absence d’entretien professionnel : au salarié de démontrer que le manquement de l’employeur lui cause un préjudice",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/absence-dentretien-professionnel-au-salarie-de-demontrer-que-le-manquement-de-lemployeur-lui-cause-un-prejudice",
@@ -32,6 +58,133 @@
       "publishedAt": "2026-11-10T05:00:00+00:00",
       "discoveredAt": "2026-11-10T09:55:22.424266+00:00",
       "topics": []
+    },
+    {
+      "title": "Demander le taux de prélèvement à la source dès l’embauche : le signalement ADV",
+      "url": "https://www.legisocial.fr/contrat-de-travail/embauche/demander-taux-prelevement-source-embauche-signalement-adv.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lors d’une embauche, le signalement ADV permet de demander le taux personnalisé du salarié avant la première DSN mensuelle. Il facilite également l’identification et l’amorçage des affiliations complémentaires.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.652243+00:00",
+      "topics": [
+        "DSN",
+        "PAS"
+      ]
+    },
+    {
+      "title": "Déclarer les frais professionnels en DSN",
+      "url": "https://www.legisocial.fr/paie/avantages-en-nature-et-frais/declarer-frais-professionnels-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les frais professionnels remboursent les dépenses engagées par le salarié pour les besoins de son activité. Cette fiche explique leur traitement en paie et leur déclaration dans le bloc S21.G00.54.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.652331+00:00",
+      "topics": [
+        "DSN",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Déclarer une démission en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/demission/declarer-demission-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La démission doit être déclarée dans la DSN mensuelle et faire l’objet d’un signalement FCTU. Le motif de rupture, la date de fin du contrat, le préavis et les éléments du solde de tout compte doivent être cohérents entre les deux déclarations.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.652418+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Déclarer une rupture conventionnelle en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/rupture-conventionnelle/declarer-rupture-conventionnelle-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La rupture conventionnelle doit être déclarée dans la DSN mensuelle et faire l’objet d’un signalement FCTU. Le motif, la date de fin, l’indemnité spécifique et la contribution patronale doivent être cohérents avec la convention homologuée. Cette fiche présente les principaux blocs à renseigner et les modalités de correction.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.652513+00:00",
+      "topics": [
+        "DSN",
+        "Rupture"
+      ]
+    },
+    {
+      "title": "Déclarer un licenciement en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/licenciement/declarer-licenciement-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le licenciement doit être déclaré dans la DSN mensuelle et faire l’objet d’un signalement FCTU. Le motif de rupture, le préavis, les indemnités et le solde de tout compte doivent être cohérents entre les deux déclarations. Cette fiche présente les blocs à renseigner, les modalités de correction et la récupération de l’attestation employeur.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.652669+00:00",
+      "topics": [
+        "DSN",
+        "Rupture"
+      ]
+    },
+    {
+      "title": "Déclarer les avantages en nature en DSN",
+      "url": "https://www.legisocial.fr/paie/avantages-en-nature-et-frais/declarer-avantages-nature-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les avantages en nature constituent un élément de rémunération soumis à cotisations et, sauf exception, à l’impôt. Cette fiche présente leur traitement en paie et les codes à utiliser pour les déclarer correctement en DSN.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.652757+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Déclarer une indemnité transactionnelle en DSN",
+      "url": "https://www.legisocial.fr/paie/indemnite-transactionnelle/declarer-indemnite-transactionnelle-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’indemnité transactionnelle ne suit pas un régime unique : son traitement dépend de la nature des sommes qu’elle indemnise. La DSN doit distinguer son montant total, sa fraction exonérée fiscalement et les éventuelles parts soumises à cotisations. Cette fiche présente les codes à utiliser et la procédure applicable lorsque le versement intervient après la sortie du salarié.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.652863+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "Embauche : bien déclarer les données identifiantes du salarié",
+      "url": "https://www.legisocial.fr/contrat-de-travail/embauche/embauche-declarer-donnees-identifiantes-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Une identité erronée peut empêcher le rattachement des déclarations au bon assuré et affecter ses droits sociaux. Cette fiche présente les données à recueillir et les modalités de correction en DSN.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.652954+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "DPAE en DSN : règles et évolution prévue en 2027",
+      "url": "https://www.legisocial.fr/contrat-de-travail/embauche/dpae-dsn-regles-evolution-prevue-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La DPAE doit être transmise avant la prise de poste du salarié. Cette fiche rappelle les données nécessaires et présente la possibilité de l’effectuer au moyen d’un signalement DSN à compter de 2027.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.653153+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Déclarer un départ à la retraite en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/retraite/declarer-depart-retraite-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le départ à la retraite et la mise à la retraite utilisent des motifs et des codes d’indemnités différents. Cette fiche présente les blocs à renseigner dans la DSN du mois de fin du contrat.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T17:54:18.653233+00:00",
+      "topics": [
+        "DSN"
+      ]
     },
     {
       "title": "9 novembre 20h34 Hausse du SMIC, négociations salariales, allègements de charges et pouvoir d’achat : les annonces du gouvernement à l’issue de la conférence sociale Social Paye Projet de texte",
