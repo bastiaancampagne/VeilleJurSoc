@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-12T03:04:04.909704+00:00",
+  "generated_at": "2026-11-12T11:18:48.526521+00:00",
   "items": [
+    {
+      "title": "12 novembre 09h00 Cumul emploi-retraite : les règles du jeu plus restrictives prévues à partir de 2027 sont fixées Social Paye Journal officiel LFSS 2026 Réforme des retraites",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/cumul-emploi-retraite-les-regles-du-jeu-plus-restrictives-prevues-a-partir-de-2027-sont-fixees",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pris en application de la loi de financement de la sécurité sociale (LFSS) pour 2026, deux décrets du 2 novembre 2026 ont fixé les",
+      "publishedAt": "2026-11-12T08:00:00+00:00",
+      "discoveredAt": "2026-11-12T11:18:45.423287+00:00",
+      "topics": []
+    },
+    {
+      "title": "Parler politique au travail : jusqu’où va la liberté d’expression des salariés ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/parler-politique-au-travail-jusquou-va-la-liberte-dexpression-des-salaries",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-12T07:00:00+00:00",
+      "discoveredAt": "2026-11-12T11:18:48.489834+00:00",
+      "topics": []
+    },
+    {
+      "title": "Ai-je le droit de licencier un salarié qui n’est pas venu à l’entretien préalable ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-de-licencier-un-salarie-qui-n-est-pas-venu-a-l-entretien-prealable",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-12T05:39:00+00:00",
+      "discoveredAt": "2026-11-12T11:18:48.489930+00:00",
+      "topics": []
+    },
+    {
+      "title": "Nouvel espace connecté Net-entreprises : comment résoudre les difficultés d’accès ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8236-nouvel-espace-connecte-net-entreprises-comment-resoudre-difficultes-acces.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Accès DSN désactivé, recherche de CRM bloquée, services introuvables : Net-entreprises apporte des réponses aux difficultés rencontrées sur son nouvel espace connecté. Sa FAQ actualisée le 5 novembre 2026 détaille les solutions et les accès à utiliser.",
+      "publishedAt": "2026-11-12T05:00:00+00:00",
+      "discoveredAt": "2026-11-12T11:18:39.567805+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "title": "Maladies professionnelles hors tableaux : la Cour de cassation ouvre un nouveau droit de contestation pour les employeurs",
+      "url": "https://www.legisocial.fr/actualites-sociales/8221-maladies-professionnelles-tableaux-cour-cassation-ouvre-nouveau-droit-contestation-employeurs.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Par trois arrêts rendus le 15 octobre 2026, la Cour de cassation a modifié les règles applicables aux maladies professionnelles dites « hors tableaux ». Désormais, l'employeur qui conteste la décision de prise en charge d'une maladie par la CPAM peut remettre en cause le taux d'incapacité permanente prévisible ayant justifié la saisine du comité régional de reconnaissance des maladies professionnelles (CRRMP).",
+      "publishedAt": "2026-11-12T05:00:00+00:00",
+      "discoveredAt": "2026-11-12T11:18:39.567995+00:00",
+      "topics": []
+    },
     {
       "title": "Intéressement : de nouvelles fonctionnalités sur mon-interessement.urssaf.fr",
       "url": "https://www.legisocial.fr/actualites-sociales/8234-interessement-nouvelles-fonctionnalites.html",
