@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-11-16T02:47:24.200339+00:00",
+  "generated_at": "2026-11-16T11:25:40.233621+00:00",
   "items": [
+    {
+      "title": "Transmettre l’adresse de son salarié : est-ce risqué ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/transmettre-ladresse-de-son-salarie-est-ce-risque",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:45:00+00:00",
+      "discoveredAt": "2026-11-16T11:25:40.195722+00:00",
+      "topics": []
+    },
+    {
+      "title": "vie privée du salarié et trouble objectif caractérisé",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1704-vie-privee-salarie-trouble-objectif-caracterise.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un licenciement fondé sur des faits relevant de la vie privée peut être justifié lorsque le comportement du salarié crée un trouble objectif caractérisé dans l’entreprise.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:25:34.841171+00:00",
+      "topics": [
+        "Rupture"
+      ]
+    },
+    {
+      "title": "Augmentation du SMIC au 1er décembre 2026 : impact en paie",
+      "url": "https://www.legisocial.fr/actualites-sociales/8239-augmentation-smic-1er-decembre-2026-impact-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La hausse du SMIC annoncée pour décembre impose plusieurs ajustements en paie : rémunération des salariés et des alternants, franchise de cotisations des apprentis, activité partielle… Le plafond des IJSS maladie évoluera, lui, pour les arrêts débutant à compter de janvier 2027.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:25:34.841338+00:00",
+      "topics": [
+        "SMIC",
+        "IJSS",
+        "Cotisations",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Lunettes connectées en entreprise : innovation technologique ou nouveau défi pour les employeurs ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8214-lunettes-connectees-entreprise-innovation-technologique-nouveau-defi-employeurs.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Longtemps cantonnées à l'univers de la science-fiction, les lunettes connectées font désormais leur entrée dans le quotidien professionnel. Dotées de caméras embarquées, de fonctionnalités audio, d'outils d'assistance à la navigation, de traduction en temps réel ou encore d'intelligence artificielle, elles promettent des gains de productivité considérables dans de nombreux secteurs d'activité.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:25:34.841494+00:00",
+      "topics": []
+    },
+    {
+      "title": "Contrats de travail conclus pour la saison hivernale : les points de vigilance !",
+      "url": "https://www.legisocial.fr/actualites-sociales/7622-contrats-travail-conclus-saison-hivernale-points-vigilance.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À l’approche de la saison hivernale, les employeurs du tourisme, de l’hôtellerie-restauration ou des remontées mécaniques doivent rédiger un CDD saisonnier conforme aux articles L1242-2 et L1242-12 du Code du travail. Le contrat doit être écrit, préciser le motif saisonnier, la période exacte (souvent octobre-avril) et ne pas couvrir l’intégralité de l’ouverture de l’établissement, sous peine de requalification en CDI.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:25:34.841657+00:00",
+      "topics": []
+    },
     {
       "title": "13 novembre 15h22 Preuve d’une discrimination syndicale avec les bulletins de paye de salariés : attention à la protection de leurs données personnelles Social Jurisprudence",
       "url": "https://www.revue-fiduciaire.com/actualite/article/preuve-d-une-discrimination-syndicale-avec-les-bulletins-de-paye-de-salaries-attention-a-la-protection-de-leurs-donnees-personnelles",
@@ -19,6 +76,18 @@
       "summary": "Par une décision du 10 novembre 2026, la Cour de cassation indique qu’un salarié protégé dispose de 12 mois pour demander la nullité",
       "publishedAt": "2026-11-13T12:59:42+00:00",
       "discoveredAt": "2026-11-13T16:29:31.062026+00:00",
+      "topics": [
+        "Rupture"
+      ]
+    },
+    {
+      "title": "13 novembre 13h59 Dans quel délai un salarié protégé doit-il contester une rupture conventionnelle signée hors procédure d’autorisation ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/dans-quel-delai-un-salarie-protege-doit-il-contester-une-rupture-conventionnelle-signee-hors-procedure-d-autorisation",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Par une décision du 10 novembre 2026, la Cour de cassation indique qu’un salarié protégé dispose de 12 mois pour demander la nullité",
+      "publishedAt": "2026-11-13T12:59:42+00:00",
+      "discoveredAt": "2026-11-16T11:25:39.434526+00:00",
       "topics": [
         "Rupture"
       ]
