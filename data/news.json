@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-18T14:03:40.480704+00:00",
+  "generated_at": "2026-11-18T22:00:52.692069+00:00",
   "items": [
+    {
+      "title": "Manquement de l'employeur à ses obligations d'entretien professionnels et de visite médicale périodique: quel droit à réparation pour le salarié?",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1705-manquement-employeur-obligations-entretien-professionnels-visite-medicale-periodique-droit-reparation-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’absence d’entretien professionnel ou de visite médicale périodique n’ouvre pas à elle seule droit à réparation. Le salarié doit démontrer son préjudice, dont l’existence relève de l’appréciation souveraine des juges du fond.",
+      "publishedAt": "2026-11-18T17:00:00+00:00",
+      "discoveredAt": "2026-11-18T22:00:41.284707+00:00",
+      "topics": []
+    },
+    {
+      "title": "18 novembre 15h17 Pas de reprise de l’ancienneté du salarié qui démissionne d’une filiale pour être embauché dans la société mère Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/pas-de-reprise-de-l-anciennete-du-salarie-qui-demissionne-d-une-filiale-pour-etre-embauche-dans-la-societe-mere",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation rappelle que la seule prise de participation dans le capital d'une société commerciale n'entraîne pas de",
+      "publishedAt": "2026-11-18T14:17:18+00:00",
+      "discoveredAt": "2026-11-18T22:00:45.016171+00:00",
+      "topics": []
+    },
+    {
+      "title": "18 novembre 10h50 Exonérations zonées, heures supplémentaires et complémentaires : le BOSS met à jour ses rubriques Paye BOFIP et Circulaires BOSS",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/exonerations-zonees-heures-supplementaires-et-complementaires-le-boss-met-a-jour-ses-rubriques",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lors d'une mise à jour en date du 16 novembre 2026, le Bulletin officiel de la sécurité sociale (BOSS) a actualisé ses rubriques «",
+      "publishedAt": "2026-11-18T09:50:41+00:00",
+      "discoveredAt": "2026-11-18T22:00:47.812594+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
     {
       "title": "Reclassement économique : le silence du salarié ne dispense pas de lui communiquer les nouvelles offres",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/reclassement-economique-le-silence-du-salarie-ne-dispense-pas-de-lui-communiquer-les-nouvelles-offres",
@@ -6126,6 +6158,10 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "source": "Ministère du Travail",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Assurance Maladie",
