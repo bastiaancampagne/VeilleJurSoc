@@ -1,6 +1,65 @@
 {
-  "generated_at": "2026-11-19T03:33:22.287441+00:00",
+  "generated_at": "2026-11-19T13:14:48.659664+00:00",
   "items": [
+    {
+      "title": "19 novembre 10h48 Bulletin de salaire : passer des heures supplémentaires en paye « plus tard », ça ne régularise pas le travail dissimulé Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/bulletin-de-salaire-passer-des-heures-supplementaires-en-paye-plus-tard-ca-ne-regularise-pas-le-travail-dissimule",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Hors cas d'aménagement du temps de travail, mentionner intentionnellement sur le bulletin de paye un nombre d'heures de travail inférieur",
+      "publishedAt": "2026-11-19T09:48:39+00:00",
+      "discoveredAt": "2026-11-19T13:14:47.416865+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Ai-je le droit de demander à un salarié en arrêt de travail de rester joignable ou de consulter ses mails en cas d'urgence ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-de-demander-a-un-salarie-en-arret-de-travail-de-rester-joignable-ou-de-consulter-ses-mails-en-cas-durgence",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-19T05:44:00+00:00",
+      "discoveredAt": "2026-11-19T13:14:48.607671+00:00",
+      "topics": []
+    },
+    {
+      "title": "BOSS : mise à jour des exonérations zonées et des heures supplémentaires",
+      "url": "https://www.legisocial.fr/actualites-sociales/8245-boss-mise-jour-exonerations-zonees-heures-supplementaires.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le BOSS a corrigé, le 16 novembre 2026, la liste des dispositifs non cumulables avec l’exonération dans les bassins d’emploi à redynamiser (BER). Il a aussi actualisé le plafond des aides de minimis pour les exonérations BER et ZRD et pour la déduction forfaitaire patronale sur les heures supplémentaires.",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "discoveredAt": "2026-11-19T13:14:42.537637+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "Travail dissimulé : une audition sans consentement peut faire annuler une partie du redressement",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1706-travail-dissimule-audition-consentement-annuler-partie-redressement.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 12 novembre 2026, la Cour de cassation juge que l’employeur peut contester un redressement de cotisations pour travail dissimulé en invoquant l’absence de consentement préalable d’un salarié auditionné. Seuls les chefs de redressement qui reposent sur cette audition peuvent être annulés. Pour le gestionnaire de paie, il faut donc identifier les éléments sur lesquels la caisse s’appuie pour chaque somme réclamée.",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "discoveredAt": "2026-11-19T13:14:42.537845+00:00",
+      "topics": [
+        "Cotisations",
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "La notification du licenciement : une étape décisive qui encadre définitivement la rupture du contrat de travail",
+      "url": "https://www.legisocial.fr/actualites-sociales/8227-notification-licenciement-etape-decisive-encadre-definitivement-rupture-contrat-travail.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La notification du licenciement constitue l’acte par lequel l’employeur formalise sa décision de rompre le contrat de travail. Obligatoirement écrite, elle fixe les limites du litige et détermine les motifs que l’employeur pourra invoquer devant le juge en cas de contestation. Son contenu, son mode de transmission et les délais qui l’entourent font l’objet d’un encadrement particulièrement strict dont la jurisprudence rappelle régulièrement l’importance.",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "discoveredAt": "2026-11-19T13:14:42.538071+00:00",
+      "topics": [
+        "Rupture"
+      ]
+    },
     {
       "title": "Manquement de l'employeur à ses obligations d'entretien professionnels et de visite médicale périodique: quel droit à réparation pour le salarié?",
       "url": "https://www.legisocial.fr/jurisprudences-sociales/1705-manquement-employeur-obligations-entretien-professionnels-visite-medicale-periodique-droit-reparation-salarie.html",
@@ -6158,10 +6217,6 @@
     {
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
-    },
-    {
-      "source": "Ministère du Travail",
-      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "source": "Assurance Maladie",
