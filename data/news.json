@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:07:59.398069+00:00",
+  "generated_at": "2026-11-21T18:01:38.466557+00:00",
   "items": [
     {
       "title": "Indemnités journalières de sécurité sociale (IJSS) 2027 : jusqu’à 43,67 € par jour en cas de maladie",
@@ -11,6 +11,18 @@
       "discoveredAt": "2026-11-21T11:07:47.326695+00:00",
       "topics": [
         "IJSS"
+      ]
+    },
+    {
+      "title": "Chèques-vacances 2027 : participation maximale de 50% ou 80%",
+      "url": "https://www.legisocial.fr/reperes-sociaux/cheques-vacances-2027-participation-maximale-50-80.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En 2027, le seuil de rémunération retenu pour calculer la participation de l’employeur aux chèques-vacances est de 4 075 € par mois. Avant majoration pour enfant à charge, l’employeur peut financer jusqu’à 80 % de la valeur des titres si la rémunération moyenne des trois derniers mois est inférieure à ce seuil, et jusqu’à 50 % si elle est supérieure. Des plafonds distincts s’appliquent aux exonérations sociale et fiscale.",
+      "publishedAt": "2026-11-21T05:00:00+00:00",
+      "discoveredAt": "2026-11-21T18:01:24.068763+00:00",
+      "topics": [
+        "Rémunération"
       ]
     },
     {
