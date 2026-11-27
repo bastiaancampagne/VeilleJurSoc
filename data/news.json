@@ -1,6 +1,64 @@
 {
-  "generated_at": "2026-11-27T10:56:36.634246+00:00",
+  "generated_at": "2026-11-27T20:01:23.057646+00:00",
   "items": [
+    {
+      "title": "Elu local : le label « employeur partenaire de la démocratie locale »",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/elu-local-le-label-employeur-partenaire-de-la-democratie-locale",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-27T15:14:00+00:00",
+      "discoveredAt": "2026-11-27T20:01:23.025900+00:00",
+      "topics": []
+    },
+    {
+      "title": "27 novembre 14h45 Comment se calcule la garantie d'évolution de rémunération des représentants du personnel et syndicaux ? Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/comment-se-calcule-la-garantie-d-evolution-de-remuneration-des-representants-du-personnel-et-syndicaux-2b28e7f3-abaa-4cee-ac55-cf7c7e25d706",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les représentants du personnel et les représentants syndicaux bénéficient, sous certaines conditions, d'une garantie d'évolution de",
+      "publishedAt": "2026-11-27T13:45:00+00:00",
+      "discoveredAt": "2026-11-27T20:01:15.837929+00:00",
+      "topics": [
+        "Rémunération"
+      ]
+    },
+    {
+      "title": "Corriger avec la DSN de substitution",
+      "url": "https://www.agirc-arrco.fr/entreprises/declarer-et-payer/declarer-en-dsn/corriger-avec-la-dsn-de-substitution/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "2026 est l’année de mise en œuvre de la déclaration sociale nominative (DSN) de substitution. Ce dispositif légal permet à l'Urssaf ou à la MSA de corr ...",
+      "publishedAt": "2026-11-27T11:49:01+00:00",
+      "discoveredAt": "2026-11-27T20:00:57.021164+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "title": "27 novembre 10h54 Prélèvement à la source en paye : incidence de la hausse du SMIC du 1er décembre 2026 pour les apprentis et stagiaires Fiscal Paye Autres sources Prélèvement à la source",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prelevement-a-la-source-en-paye-incidence-de-la-hausse-du-smic-du-1er-decembre-2026-pour-les-apprentis-et-stagiaires",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La revalorisation du SMIC au 1er décembre 2026 a un impact sur le seuil annuel d’exonération d’impôt sur le revenu des apprentis et",
+      "publishedAt": "2026-11-27T09:54:22+00:00",
+      "discoveredAt": "2026-11-27T20:01:19.088712+00:00",
+      "topics": [
+        "SMIC",
+        "PAS"
+      ]
+    },
+    {
+      "title": "27 novembre 10h36 PLFSS 2027 : la commission mixte paritaire (CMP) échoue, le texte repart en navette parlementaire Social Paye Autres sources LFSS 2027",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-la-commission-mixte-paritaire-cmp-echoue-le-texte-repart-en-navette-parlementaire",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La commission mixte paritaire (CMP) qui s'est réunie le 26 novembre 2026 sur le projet de loi de financement de la sécurité sociale",
+      "publishedAt": "2026-11-27T09:36:55+00:00",
+      "discoveredAt": "2026-11-27T20:01:21.418147+00:00",
+      "topics": []
+    },
     {
       "title": "Rémunération du contrat d’apprentissage 2027 : 512,28 € dès 16 ans",
       "url": "https://www.legisocial.fr/reperes-sociaux/remuneration-contrat-apprentissage-2027.html",
@@ -37,6 +95,18 @@
       "discoveredAt": "2026-11-27T10:56:26.425724+00:00",
       "topics": [
         "Cotisations"
+      ]
+    },
+    {
+      "title": "Retenue à la source 2027 des non-résidents : taux de 0 %, 12 % et 20 %",
+      "url": "https://www.legisocial.fr/reperes-sociaux/retenue-source-2027-non-residents.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans l’attente de la publication du barème 2027 de la retenue à la source des non-résidents, retrouvez les taux et seuils en vigueur en 2026. En métropole, les taux de 0 %, 12 % et 20 % s’appliquent par tranches : la première s’arrête à 1 440 € de base imposable par mois et la deuxième à 4 176 €. Consultez les règles de calcul et un exemple chiffré pour la paie.",
+      "publishedAt": "2026-11-27T05:00:00+00:00",
+      "discoveredAt": "2026-11-27T20:01:11.210463+00:00",
+      "topics": [
+        "Rémunération"
       ]
     },
     {
